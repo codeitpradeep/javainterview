@@ -1,0 +1,246 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    
+    /*font-family: euclid_circular_a,arial,source sans pro,helvetica neue,helvetica,arial,sans-serif;*/
+    font-family: Verdana,sans-serif;
+    text-rendering: optimizeLegibility;
+}
+
+body{
+    font-size: 20px;
+    line-height: 1.5;  
+}
+
+
+:root{
+    --prmycolr: #f4f0bd;
+    --hdrcolor : #146aa8;
+}
+.home__python{
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.python__iconimg{
+    width: 40px;
+    height: 40px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;  
+}
+
+.allfont{
+    /*color: rgba(37,38,94,.7);*/
+    font-size: 22px;
+    
+} 
+
+.nav__pythno{
+    display: flex;
+    align-items: center;
+    color: white;
+    background: #6A26CD;
+}
+
+.icon__python{
+    flex: 0 0 64px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 30px;
+}
+
+.title__python{
+    flex: 1 1 auto;
+    padding: 20px 160px;
+}
+.menu__python{
+    flex: 0 1 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right: 150px;
+}
+.textquery__python{
+    padding-right: 10px;
+}
+.inputtext__python{
+    width: 25rem;
+    height: 30px;
+    font-size: 20px;
+}
+
+.btn__python{
+    display: flex;
+    align-items: center;
+    color: white;
+    background: #6A96CD;
+    padding: 5px 10px;
+}
+.content__python{
+    background: var(--prmycolr);
+   
+    flex-grow: 1;
+}
+
+.topic__code h1{
+    /*color: #0d875d;*/
+    color: #026A52;
+    padding-bottom: 10px;
+    padding-left: 1rem;
+    cursor: pointer;
+    font-size: 1.5rem;
+}
+
+.footer_page{
+    padding: 10px 0;
+    background: #676f76;
+}
+
+.pgm__content{
+    background: #96bf65;
+    max-width: 1208px;
+    margin: 0 auto;
+    min-height: 10vh;  
+}
+
+.lang_items{
+    margin-top: 20px;
+    box-shadow:0 8px 15px 0 rgba(0,0,0,0.16),0 8px 15px 0 rgba(0,0,0,0.12);
+}
+
+.code__contianer{
+    padding: 10px 40px;
+    
+    
+}
+
+.module__code{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-bottom: 5px;
+}
+.text__discription, .nextline{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.syntax__code{
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+
+.code__pythoncd,.syntax__code span{
+    font-family: Verdana,sans-serif;
+    padding: 10px 15px;
+    margin: 0;
+    min-height: 7rem;
+    background: #282828;
+    color: #f4f0bd;
+    display: flex;
+    flex-direction: column;
+}
+.code__pythoncd{
+    line-height: 1.8rem;
+}
+
+.applykey{
+    color: #55ffc3;
+}
+.syntax__code span ,.commentpgm{
+    /* color: #0d875d;026A52 */
+    color: #0d875d;
+    min-height: 4rem;
+}  
+
+
+.output__content{
+    display: block;
+    padding: 10px 0;
+    background: #aac5e76c;  
+}
+
+.subtoipcclor{
+    color: var(--hdrcolor);
+}
+.module__code span{
+    font-size: 20px;
+    line-height: 1.5;
+    padding-left: 10px;
+}
+
+.key_001{
+    color: #ff79c6;
+    font-weight: 700;
+}
+.key_002{
+    color: #8be9fd;
+}
+.answrdisplay{
+    word-wrap: break-word;
+}
+
+.hide_sec{
+    display: none;
+}
+.active{
+    display: block;
+}
+@media screen and (max-width: 600px){
+    .nav__pythno{
+        flex-direction: column;
+        justify-content: center;
+        padding-bottom: 5px;
+        font-size: 0.9rem;
+    }
+    .pgm__content{
+        min-height: 5vh;
+    }
+    .header{
+        height: 5rem;
+    }
+    .inputtext__python{
+        max-width: 180px ;
+        margin: 0 auto;
+        height: 25px;
+        font-size: 15px;
+    }
+    .menu__python , .icon__python ,.title__python{
+        padding: 0;
+    }
+    .btn__python {
+        padding: 0 5px ;
+    }
+    .code__contianer{
+        padding: 15px;
+        font-size: 12px;
+    }
+    .text__discription{
+        background-color: #d2e0c1;
+        padding: 5px 1px;
+        opacity: 0.6;
+        z-index: 0;
+    }
+    .text__discription > span{
+        z-index: 1;
+        opacity: 100%;
+    }
+    .code__pythoncd{
+        line-height: 1.3rem;
+        font-size: .8rem;
+    }
+    .topic__code h1{
+        font-size: 12px;
+    }
+
+    .code__pythoncd,.syntax__code span{
+        padding: 10px 3px;
+    }
+}

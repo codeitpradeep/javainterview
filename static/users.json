@@ -1,0 +1,24 @@
+[
+
+    {
+        "no":"001",
+        "qus": "What is public static void main(String[] args)?",
+        "ans": "ans001",
+        "pgmsyn": "001",
+        "img":"001"
+    },
+    {
+        "no":"002",
+        "qus": "What is public static void main(String[] args)?",
+        "ans": "ans002",
+        "pgmsyn": "002",
+        "img":"002"
+    },
+    {
+        "no":"003",
+        "qus": "What is public static void main(String[] args)?",
+        "ans": "ans003",
+        "pgmsyn": "001",
+        "img":"001"
+    }
+]
