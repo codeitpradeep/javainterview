@@ -1,0 +1,1 @@
+Char of 'A' to find its ascii value<br><br>(int) c; - changing cast used when converting its type.

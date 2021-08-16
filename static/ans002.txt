@@ -1,13 +1,6 @@
-public -
-This is the access modifier of the main method 
-It has to be public so that java runtime can execute this method
-
-static -
-In this method has to be static so the JVM can load the class into memory and call the main method
-
-void -
-Java main method doesn't return anything, thats why its return type is void
-
-main -
-This is the name of java main method, Its fixed and when we run java program, it looks for the main method
-String[] arges. Java main method accepts a single argument of type String array. This is also called asa java command line arguments				
+java.util.Scanner- A simple text scanner which can parse primitive types and strings usingregular expressions. 
+<br>A Scanner breaks its input into tokens using adelimiter pattern, which by default matches whitespace. The resultingtokens may then be converted into values of different types using thevarious next methods. 
+<br>
+<br>public int nextInt() - Scans the next token of the input as an int. 
+<br>An invocation of this method of the form nextInt() behaves in exactly the same way as theinvocation nextInt(radix), where radixis the default radix of this scanner.
+<br>Returns:the int scanned from the input

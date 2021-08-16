@@ -25,17 +25,17 @@ function gettextherejson(){
                            </div>
                            <div class="pgm__code">
                             <h3>Code -</h3>
-                            <p>Program -  Program to Create interface class</p>
+                            <p>Program </p>
                             <div class="code__pythoncd" id = "pgmaddanswer${user.no}">
                                 
                             
                             </div>
                             </div>
-                           <div class="syntax__code">
+                           <!--div class="syntax__code">
                             <h3>Program or Syntax-</h3>
                             <span>public static void main(String[] args){ <br>
                             }</span>
-                            </div>
+                            </div -->
                         </div>
                        
                         <div class="img__codehint">
@@ -143,12 +143,12 @@ function gettextherejson3(){
          // console.log(data);
          dataret = data
         } catch (err) {
-          console.error(err);
+            console.error("Please upload ...",url,"+txt");
         }
         return dataret
       }
       async function loadFileAndPrintToConsole2(url) {
-        let path = "./static/"+url+".txt";
+        let path = "./static/"+url+".java";
         let dataret ;
         try {
           const response = await fetch(path);
@@ -156,7 +156,7 @@ function gettextherejson3(){
          // console.log(data);
          dataret = data
         } catch (err) {
-          console.error(err);
+          console.error("Please upload ...",url,"+txt");
         }
         return dataret
       }
@@ -164,7 +164,12 @@ function gettextherejson3(){
 function gettexthere(filename){
       loadFileAndPrintToConsole(filename).then((data) =>{ 
           //console.log(data)
-          document.getElementById("addanswer"+filename).innerHTML = data;
+          if(data.includes('Cannot GET')){
+
+          }else{
+            document.getElementById("addanswer"+filename).innerHTML = data;
+          }
+         
         })
       
 }  
@@ -172,7 +177,12 @@ function getpgmhere(filename){
     loadFileAndPrintToConsole2("pgm"+filename).then((data2) =>{ 
         console.log(filename)
         //pgmaddanswerans001
-        document.getElementById("pgmaddanswer"+filename).innerHTML = data2;
+        if(data2.includes('Cannot GET')){
+
+        }else{
+            document.getElementById("pgmaddanswer"+filename).innerHTML = data2;
+        }
+        
       })
     
 } 

@@ -3,22 +3,55 @@
     {
         "no":"001",
         "qus": "What is public static void main(String[] args)?",
-        "ans": "ans001",
-        "pgmsyn": "001",
-        "img":"001"
+        "ans": "ans001"
+        
     },
-    {
-        "no":"002",
-        "qus": "What is public static void main(String[] args)?",
-        "ans": "ans002",
-        "pgmsyn": "002",
-        "img":"002"
-    },
-    {
-        "no":"003",
-        "qus": "What is public static void main(String[] args)?",
-        "ans": "ans003",
-        "pgmsyn": "001",
-        "img":"001"
-    }
+        {"no":"002",
+        "qus":"Get input from user -  .util.Scanner",
+        "ans":"ans002"} 
+        ,{"no":"003",
+        "qus":"Adding two number as integer '+ operator'",
+        "ans":"ans003"} 
+        ,{"no":"004",
+        "qus":"Multiply Float DATATYPE using ( * operator )",
+        "ans":"ans004"} 
+        ,{"no":"005",
+        "qus":"Swap interger using - temp value / add,sub operator.",
+        "ans":"ans005"} 
+        ,{"no":"006",
+        "qus":"Find ASCII of char",
+        "ans":"ans006"} 
+        ,{"no":"007",
+        "qus":"Finding divide of integer , quotient  and remainder",
+        "ans":"ans007"} 
+        ,{"no":"008",
+        "qus":"Find ODD / EVEN integer",
+        "ans":"ans008"} 
+        ,{"no":"009",
+        "qus":"Find single char Alphabet is Vowel or Consonant",
+        "ans":"ans009"} 
+        ,{"no":"010",
+        "qus":"Find Larger number between 3 numbers if-else , Ternary opr",
+        "ans":"ans010"} 
+        ,{"no":"011",
+        "qus":"Find Prime number , m to nth all prime numbers",
+        "ans":"ans011"} 
+        ,{"no":"012",
+        "qus":"Find factorial of number",
+        "ans":"ans012"} 
+        ,{"no":"013",
+        "qus":"Display a-Z A-Z",
+        "ans":"ans013"} 
+        ,{"no":"014",
+        "qus":"Check Palindrome String , reverse items",
+        "ans":"ans014"} 
+        ,{"no":"015",
+        "qus":"Array - copy to another char",
+        "ans":"ans015"} 
+        ,{"no":"016",
+        "qus":"Array -remove duplicate element",
+        "ans":"ans016"} 
+        ,{"no":"017",
+        "qus":"Array - find duplicate of same number",
+        "ans":"ans017"} 
 ]

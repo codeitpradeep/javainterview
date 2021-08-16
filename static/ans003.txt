@@ -1,4 +1,1 @@
-public -
-This is the access modifier of the main method 
-It has to be public so that java runtime can execute this method
-
+ Getting two integer as value<br> Added using the '+' operator<br> 

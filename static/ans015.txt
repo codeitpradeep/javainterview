@@ -1,0 +1,1 @@
+Array , here we understand<br>Declaration array by int - <br>int a1[] = {1,2,3,4,5}; <br><br>Empty of array keeps its length<br>int a2[] = new int[len];<br><br>initialize by<br>a2[m]=a1[m];
