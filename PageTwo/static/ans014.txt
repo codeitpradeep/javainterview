@@ -1,0 +1,1 @@
+Method 1 -<br><br>Iterate from last charAt<br>r<br>ra<br>rad<br>rada<br>radaR<br>radaR<br><br>Method 2 -<br>353 to reverse <br>rem = num % 10;<br>3 as remainder<br>revsnum = revsnum *10 + rem;<br>3 (0*10)+3 as remainder<br>num=num/10;<br>35 qos

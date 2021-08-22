@@ -1,0 +1,1 @@
+Ternary Operator - <br>variable = Expression1 ? Expression2: Expression3<br><br>(% - operator) use to display remainder.<br><br>Using if(return Boolean) to find Odd / Even<br>

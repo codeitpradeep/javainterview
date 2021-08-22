@@ -1,0 +1,1 @@
+if statement will check the inputs .<br>|| opr- used to compare between statements 

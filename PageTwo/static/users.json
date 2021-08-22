@@ -1,0 +1,756 @@
+[
+
+    {
+        "no":"001",
+        "qus": "public static void main(String[] args)?",
+        "ans": "ans001"
+        
+    },{"no":"002","qus":"3DPLM :1. difference between smoke testing and adhoc testing.","ans":"ans002"} 
+    ,{"no":"003","qus":"3DPLM :2. difference between integration testing and system testing with examples.","ans":"ans003"} 
+    ,{"no":"004","qus":"3DPLM :3. write functional test cases for ' you have three field A, B, C and one ok button field can take only two character if by using the fields the triangle is formed then ok button must display valid triangle else invalid triangle.","ans":"ans004"} 
+    ,{"no":"005","qus":"3DPLM :4. difference between http and https?","ans":"ans005"} 
+    ,{"no":"006","qus":"3DPLM :5. some logical puzzles he asked like :- a> how to measure 4 lt. if u have 2 container of 5 and 3 lt. b> 3 bulb and 3 switch puzzle c> car parking no. puzzle","ans":"ans006"} 
+    ,{"no":"007","qus":"3DPLM :6. what is the use of cookies and cache.","ans":"ans007"} 
+    ,{"no":"008","qus":"3DPLM :7. how to remove cookies","ans":"ans008"} 
+    ,{"no":"009","qus":"3DPLM :8. how to test web application","ans":"ans009"} 
+    ,{"no":"010","qus":"3DPLM :9. if you have opened any web application and it is broken means it has changed its layout and other thing which type of testing you will perform to check this","ans":"ans010"} 
+    ,{"no":"011","qus":"3DPLM Testing :What is severity and priority in software testing?","ans":"ans011"} 
+    ,{"no":"012","qus":"3DPLM Testing : What is Stub?","ans":"ans012"} 
+    ,{"no":"013","qus":"3DPLM Testing : What is abstraction ?","ans":"ans013"} 
+    ,{"no":"014","qus":"3DPLM Testing : What is Encapsulation in Java and OOPS with Example","ans":"ans014"} 
+    ,{"no":"015","qus":"3DPLM Testing : What is Functional Testing? What are the Different Techniques used in it","ans":"ans015"} 
+    ,{"no":"016","qus":"3DPLM Testing : Black Box Testing: Types and techniques of BBT","ans":"ans016"} 
+    ,{"no":"017","qus":"ACIWorldwide  :1. Introduce yourself?","ans":"ans017"} 
+    ,{"no":"018","qus":"ACIWorldwide  : 2. STLC?","ans":"ans018"} 
+    ,{"no":"019","qus":"ACIWorldwide  : 3. What is Interface and Abstract Class?","ans":"ans019"} 
+    ,{"no":"020","qus":"ACIWorldwide  : 4. Can we create an object of Abstract class?","ans":"ans020"} 
+    ,{"no":"021","qus":"ACIWorldwide  : 5. What are the types of Automation frameworks we have? Can u explain them?","ans":"ans021"} 
+    ,{"no":"022","qus":"ACIWorldwide  : 6. What is a sub Query?","ans":"ans022"} 
+    ,{"no":"023","qus":"ACIWorldwide  : 7. What are Joins?","ans":"ans023"} 
+    ,{"no":"024","qus":"ACIWorldwide  : 8. Queries on Joins and Sub-Query?","ans":"ans024"} 
+    ,{"no":"025","qus":"ACIWorldwide  : 9. What is TestNG? Why we use it in Selenium?","ans":"ans025"} 
+    ,{"no":"026","qus":"ACIWorldwide  : 10. Explain Automation Framework?","ans":"ans026"} 
+    ,{"no":"027","qus":"ACIWorldwide  : 11. Program on Prime Number?","ans":"ans027"} 
+    ,{"no":"028","qus":"ACIWorldwide  : 12. SDLC?","ans":"ans028"} 
+    ,{"no":"029","qus":"ACIWorldwide  : 13. Program to Read and Write data in to Excel Sheet?","ans":"ans029"} 
+    ,{"no":"030","qus":"ACIWorldwide  : 14. How to Right Click in Selenium?","ans":"ans030"} 
+    ,{"no":"031","qus":"ACIWorldwide  : Manager Round","ans":"ans031"} 
+    ,{"no":"032","qus":"ACIWorldwide  : 1. About Yourself?","ans":"ans032"} 
+    ,{"no":"033","qus":"ACIWorldwide  : 2. Why Testing U r from Electronics Background right?","ans":"ans033"} 
+    ,{"no":"034","qus":"ACIWorldwide  : 3. Qualities of Good Test Engineer?","ans":"ans034"} 
+    ,{"no":"035","qus":"ACIWorldwide  : 4. Challenges in T","ans":"ans035"} 
+    ,{"no":"036","qus":"ACIWorldwide Java :1. What is Polymorphism?","ans":"ans036"} 
+    ,{"no":"037","qus":"ACIWorldwide Java : 2. What is Abstraction?","ans":"ans037"} 
+    ,{"no":"038","qus":"ACIWorldwide Java : 3. Difference between static and non-static members?","ans":"ans038"} 
+    ,{"no":"039","qus":"ACIWorldwide Java : 4. Difference between super and this?","ans":"ans039"} 
+    ,{"no":"040","qus":"ACIWorldwide Java : 5. What is a List and Set?","ans":"ans040"} 
+    ,{"no":"041","qus":"ACIWorldwide Java : 6. What is Encapsulation?","ans":"ans041"} 
+    ,{"no":"042","qus":"ACIWorldwide Java : 7. What is Access Specifies in java?","ans":"ans042"} 
+    ,{"no":"043","qus":"ACIWorldwide Java : 8. Diagram and Asked to write Program?","ans":"ans043"} 
+    ,{"no":"044","qus":"ACIWorldwide Selenium :1. Code to select all the check boxes?","ans":"ans044"} 
+    ,{"no":"045","qus":"ACIWorldwide Selenium : 2. Different Waits in Selenium?","ans":"ans045"} 
+    ,{"no":"046","qus":"ACIWorldwide Selenium : 3. How do you make sure that Checkbox/Radio button is selected or not? Button Enabled or not?","ans":"ans046"} 
+    ,{"no":"047","qus":"ACIWorldwide Selenium : 4. How do you handle drop down list?","ans":"ans047"} 
+    ,{"no":"048","qus":"ACIWorldwide Selenium : 5. Code to select all the options present in multi select list box?","ans":"ans048"} 
+    ,{"no":"049","qus":"ACIWorldwide Selenium : 6. How to perform drag and drop of element and Right clicking on element?","ans":"ans049"} 
+    ,{"no":"050","qus":"ACIWorldwide Selenium : 7. How do you handle Alert popup?","ans":"ans050"} 
+    ,{"no":"051","qus":"ACIWorldwide Selenium : 8. How do you handle element present in Frames? Code to transfer control from frame to main page","ans":"ans051"} 
+    ,{"no":"052","qus":"ACIWorldwide Selenium : 9. How do u setup profile in Firefox browser?","ans":"ans052"} 
+    ,{"no":"053","qus":"ACIWorldwide Selenium : 10. What are Annotations?","ans":"ans053"} 
+    ,{"no":"054","qus":"ACIWorldwide Selenium : 11. Write a code to take screen shot for only failed test scripts?","ans":"ans054"} 
+    ,{"no":"055","qus":"ACIWorldwide Selenium : 12. Write a code to print number of links present on a webpage?","ans":"ans055"} 
+    ,{"no":"056","qus":"ACIWorldwide Selenium : 13. Code for Login page and how do u verify whether it is successfully logged in or not using assert?","ans":"ans056"} 
+    ,{"no":"057","qus":"CaterPiller JAVA :1.Diff b/w final finally and finalize","ans":"ans057"} 
+    ,{"no":"058","qus":"CaterPiller JAVA :2.how you will avoid object cloneable","ans":"ans058"} 
+    ,{"no":"059","qus":"CaterPiller JAVA :3.wat is synchronize methods","ans":"ans059"} 
+    ,{"no":"060","qus":"CaterPiller JAVA :4.wat finalize method will do","ans":"ans060"} 
+    ,{"no":"061","qus":"CaterPiller JAVA :5.Quesion on Joints","ans":"ans061"} 
+    ,{"no":"062","qus":"CaterPiller JAVA :6.Defect life Cycle","ans":"ans062"} 
+    ,{"no":"063","qus":"CaterPiller JAVA :7.wat is Smoke Testing and Regression testing","ans":"ans063"} 
+    ,{"no":"064","qus":"CaterPiller JAVA :8.Test case Design Techniques","ans":"ans064"} 
+    ,{"no":"065","qus":"CaterPiller JAVA :9.how to run tests parallely in different browsers","ans":"ans065"} 
+    ,{"no":"066","qus":"CaterPiller JAVA :10.Explain hashing technique***","ans":"ans066"} 
+    ,{"no":"067","qus":"CaterPiller JAVA :11.How u will return multiple values in a method","ans":"ans067"} 
+    ,{"no":"068","qus":"Cognizant :1.Wat is the diff b/w WebDriver Listerner and TestNG Listener","ans":"ans068"} 
+    ,{"no":"069","qus":"Cognizant :2.diff b/w Assert and verify","ans":"ans069"} 
+    ,{"no":"070","qus":"Cognizant :3.count only the non duplicate words in the string","ans":"ans070"} 
+    ,{"no":"071","qus":"Cognizant :4.Frame Work and advantage of PageFactory classes","ans":"ans071"} 
+    ,{"no":"072","qus":"Cognizant :1. tell me abt urself","ans":"ans072"} 
+    ,{"no":"073","qus":"Cognizant :2. what is stlc","ans":"ans073"} 
+    ,{"no":"074","qus":"Cognizant :3. what is test planning","ans":"ans074"} 
+    ,{"no":"075","qus":"Cognizant :4. defect life cycle","ans":"ans075"} 
+    ,{"no":"076","qus":"Cognizant :5. what is inheritance","ans":"ans076"} 
+    ,{"no":"077","qus":"Cognizant :6. method overloading and overriding","ans":"ans077"} 
+    ,{"no":"078","qus":"Cognizant :7. framework & framework used in the company","ans":"ans078"} 
+    ,{"no":"079","qus":"Cognizant :8. what is Parametisation and how do you use it in TestNG","ans":"ans079"} 
+    ,{"no":"080","qus":"Cognizant :9. how do you execute the tests based on priority","ans":"ans080"} 
+    ,{"no":"081","qus":"Cognizant :10. what are the annotations","ans":"ans081"} 
+    ,{"no":"082","qus":"Cognizant :11. what is the order of executing the annotations","ans":"ans082"} 
+    ,{"no":"083","qus":"Cognizant :12. when a test suite is executed in the order","ans":"ans083"} 
+    ,{"no":"084","qus":"Cognizant :13. Tell me anything about collections","ans":"ans084"} 
+    ,{"no":"085","qus":"Cognizant :14. interfaces","ans":"ans085"} 
+    ,{"no":"086","qus":"Cognizant :15. what is the difference between interface and a class","ans":"ans086"} 
+    ,{"no":"087","qus":"Cognizant :16. what are arrays and list difference between them","ans":"ans087"} 
+    ,{"no":"088","qus":"Cognizant :17. Is parameterisation possible and how(Tell the coding)","ans":"ans088"} 
+    ,{"no":"089","qus":"Cognizant :18. how do you check whether a test script is passed or not","ans":"ans089"} 
+    ,{"no":"090","qus":"Cognizant :19. if a test case fails how will you log the failure and the exception that caused. how will you report the result to your team lead, prj manager and the customer","ans":"ans090"} 
+    ,{"no":"091","qus":"Cognizant :20. what is the framework you are using for logging the bugs","ans":"ans091"} 
+    ,{"no":"092","qus":"Cognizant :21. How do you submit all the test scripts, execution results to you TL, PM","ans":"ans092"} 
+    ,{"no":"093","qus":"Cognizant :22. what is the process followed in you company","ans":"ans093"} 
+    ,{"no":"094","qus":"Cognizant :23. what is the difference between agile methodology and spiral modal","ans":"ans094"} 
+    ,{"no":"095","qus":"Cognizant :24. what is requirement traceability matrix","ans":"ans095"} 
+    ,{"no":"096","qus":"Cognizant :25. how do hover a link which is present on web page which opens a pop up containing a link.how do you click on the link that is in th pop up","ans":"ans096"} 
+    ,{"no":"097","qus":"Cognizant :26. prgm for reading a excel file","ans":"ans097"} 
+    ,{"no":"098","qus":"Cognizant :27. how do you initialise a chrome browser","ans":"ans098"} 
+    ,{"no":"099","qus":"Cognizant :28. SQl-joins,difference between inner joins and outer joins","ans":"ans099"} 
+    ,{"no":"100","qus":"Cognizant :29. i am having a table which consists of student details,id, marks and how do i fetch the second maximum value from the table","ans":"ans100"} 
+    ,{"no":"101","qus":"Cognizant :30. I am having two tables one having student id, student name,and the college id and the other table having college id,college name, location now i want to get map these two tables and get the students who are studying in a specific college","ans":"ans101"} 
+    ,{"no":"102","qus":"Cognizant :31. i want the count of all the students who belongs to same location","ans":"ans102"} 
+    ,{"no":"103","qus":"Cognizant :1.Wat is the diff b/w WebDriver Listerner and TestNG Listener Both are interface but WebDriver listener are triggered when you call webdriver methods like findElement, click etc example-afterClickOn; beforeFindBy.... TestNG Listener are triggered when testng methods are executed such a onTestFailure onFinish..","ans":"ans103"} 
+    ,{"no":"104","qus":"Cognizant : 2.diff b/w Assert and verify","ans":"ans104"} 
+    ,{"no":"105","qus":"Cognizant : 3.count only the non duplicate words in the string","ans":"ans105"} 
+    ,{"no":"106","qus":"Cognizant :4.Frame Work and advantage of PageFactory classes","ans":"ans106"} 
+    ,{"no":"107","qus":"Cognizant :1. Write code for Action class","ans":"ans107"} 
+    ,{"no":"108","qus":"Cognizant :2. Write code for positive and negative scenarios for Alerts","ans":"ans108"} 
+    ,{"no":"109","qus":"Cognizant :3. Write code for handling multiple windows","ans":"ans109"} 
+    ,{"no":"110","qus":"Cognizant :4. Find an odd number","ans":"ans110"} 
+    ,{"no":"111","qus":"Cognizant :5. Disadvantages of Selenium","ans":"ans111"} 
+    ,{"no":"112","qus":"Cognizant :6. Difference between get() and navigate().to()","ans":"ans112"} 
+    ,{"no":"113","qus":"Cognizant :7. Write code to click on the Checkbox which is inside the Dynamic Table","ans":"ans113"} 
+    ,{"no":"114","qus":"Cognizant :8. Write code for taking Screenshot","ans":"ans114"} 
+    ,{"no":"115","qus":"Cognizant :9. Explains Maps in Java","ans":"ans115"} 
+    ,{"no":"116","qus":"Cognizant :10. Explain framework (Questions based on your framework explanation)","ans":"ans116"} 
+    ,{"no":"117","qus":"Cognizant :11. What is Pom.xml","ans":"ans117"} 
+    ,{"no":"118","qus":"Cognizant :12. Which is the correct Xpath for this code (Lot of questions on Xpath)","ans":"ans118"} 
+    ,{"no":"119","qus":"Cognizant :13. Xpath methods Ex: Starts-with & Contains","ans":"ans119"} 
+    ,{"no":"120","qus":"Cognizant :14. The syntax for a CSS selector","ans":"ans120"} 
+    ,{"no":"121","qus":"Cognizant :15. How to identify dynamic images","ans":"ans121"} 
+    ,{"no":"122","qus":"Cognizant :16. From a given string, separate characters, integers and special characters and store in a separate variable and print them","ans":"ans122"} 
+    ,{"no":"123","qus":"Cognizant :17. Remove duplicates from ArrayList","ans":"ans123"} 
+    ,{"no":"124","qus":"Cognizant :18. Print all the frame names","ans":"ans124"} 
+    ,{"no":"125","qus":"Cognizant :19. How to read from XML or CSV file and store in hashmap","ans":"ans125"} 
+    ,{"no":"126","qus":"Cognizant :20. Get the value of a cell in Dynamic table","ans":"ans126"} 
+    ,{"no":"127","qus":"Cognizant :21. What is the Burndown chart (Agile)","ans":"ans127"} 
+    ,{"no":"128","qus":"Cognizant :22. Print these characters from a given string and change to uppercase","ans":"ans128"} 
+    ,{"no":"129","qus":"Cognizant :23. Explain Access specifiers","ans":"ans129"} 
+    ,{"no":"130","qus":"Cognizant :24. Difference between Priority and Severity","ans":"ans130"} 
+    ,{"no":"131","qus":"Cognizant :25. Example of High Priority and Low Severity and vice versa","ans":"ans131"} 
+    ,{"no":"132","qus":"Cognizant :26. Difference between Test Strategy and Test Scenario","ans":"ans132"} 
+    ,{"no":"133","qus":"Cognizant :27. What Software Metrics you have used in your project","ans":"ans133"} 
+    ,{"no":"134","qus":"Cognizant :28. How to handle Dynamic Elements, since the webpage is designed in Angular Js","ans":"ans134"} 
+    ,{"no":"135","qus":"Cognizant :29. Implicit and Explicit Waits","ans":"ans135"} 
+    ,{"no":"136","qus":"Cognizant :30. Write code for Cross Browser Testing","ans":"ans136"} 
+    ,{"no":"137","qus":"Cognizant :31. Explain Method Overloading and Method Overriding with Example","ans":"ans137"} 
+    ,{"no":"138","qus":"Cognizant :32. What is Static Keyword","ans":"ans138"} 
+    ,{"no":"139","qus":"Cognizant :33. Dependencies in Pom.xml","ans":"ans139"} 
+    ,{"no":"140","qus":"Cognizant :34. Write code for fetching data from Excel","ans":"ans140"} 
+    ,{"no":"141","qus":"Cognizant :35. Select this value in the dropdown and hover to this element and click","ans":"ans141"} 
+    ,{"no":"142","qus":"Cognizant :36. Assert and Verify","ans":"ans142"} 
+    ,{"no":"143","qus":"Cognizant :37. Check if a given string is Palindrome or not","ans":"ans143"} 
+    ,{"no":"144","qus":"Cognizant :38. Remove duplicate characters from a string and print","ans":"ans144"} 
+    ,{"no":"145","qus":"Cognizant :39. Which Code Repository you are using (Ex: GitHub)","ans":"ans145"} 
+    ,{"no":"146","qus":"Cognizant :40. How will you estimate the time to automate a scenario","ans":"ans146"} 
+    ,{"no":"147","qus":"Cognizant :41. How to perform Right Click","ans":"ans147"} 
+    ,{"no":"148","qus":"Cognizant :42. In a Dynamic Table, if I give 1 cell value, it should give me the values of other cells in that row","ans":"ans148"} 
+    ,{"no":"149","qus":"Cognizant :43. Have you Developed any Tool, If yes explain","ans":"ans149"} 
+    ,{"no":"150","qus":"Cognizant :44. Write code for handling Frames","ans":"ans150"} 
+    ,{"no":"151","qus":"Cognizant :45. Read from a text file and store in HashMap","ans":"ans151"} 
+    ,{"no":"152","qus":"Cognizant :46. Print the occurrence of each character if it is present more than once in a given string","ans":"ans152"} 
+    ,{"no":"153","qus":"Cognizant :47. Write code for nested drop-down, You have to check all the values in the dropdown, All permutation and combination","ans":"ans153"} 
+    ,{"no":"154","qus":"Cognizant :48. Advantages of Selenium","ans":"ans154"} 
+    ,{"no":"155","qus":"Cognizant :49. How to check if a checkbox is displayed","ans":"ans155"} 
+    ,{"no":"156","qus":"Cognizant :50. If the element is not present, how will you print the Element is not present the message","ans":"ans156"} 
+    ,{"no":"157","qus":"Cognizant :51. What all exceptions you have faced","ans":"ans157"} 
+    ,{"no":"158","qus":"Cognizant :52. What all difficulties you have faced in Selenium","ans":"ans158"} 
+    ,{"no":"159","qus":"Cognizant :53. What all TestNG Annotations you have used in the project","ans":"ans159"} 
+    ,{"no":"160","qus":"Cognizant :54. Where will you maintain the code","ans":"ans160"} 
+    ,{"no":"161","qus":"Cognizant :55. What all Collections, you have used in your project","ans":"ans161"} 
+    ,{"no":"162","qus":"Cognizant :56. How to run multiple test cases","ans":"ans162"} 
+    ,{"no":"163","qus":"Cognizant :57. What are Primitive and Non-primitive Data Types","ans":"ans163"} 
+    ,{"no":"164","qus":"Cognizant :58. What is JDK, JRE and JVM","ans":"ans164"} 
+    ,{"no":"165","qus":"Cognizant :59. Settings.xml in Maven","ans":"ans165"} 
+    ,{"no":"166","qus":"Cognizant :60. Eliminate the first and last string from array and print","ans":"ans166"} 
+    ,{"no":"167","qus":"Cognizant :61. What is Encapsulation","ans":"ans167"} 
+    ,{"no":"168","qus":"Cognizant :62. What is the use of build() and perform() in Actions","ans":"ans168"} 
+    ,{"no":"169","qus":"Cognizant :63. How you will check the actual vs expected result","ans":"ans169"} 
+    ,{"no":"170","qus":"Cognizant :64. Xpath Axes, Ex: Following","ans":"ans170"} 
+    ,{"no":"171","qus":"Cognizant :65. Automate Menu and Sub Menu and click on the link in Sub Menu and navigate to the page and click on an element","ans":"ans171"} 
+    ,{"no":"172","qus":"Cognizant :66. Syntax for Alerts","ans":"ans172"} 
+    ,{"no":"173","qus":"Cognizant :67. How will you generate Reports","ans":"ans173"} 
+    ,{"no":"174","qus":"Cognizant :68. What is the execution time of your test cases","ans":"ans174"} 
+    ,{"no":"175","qus":"Cognizant :69. Print a Reverse Pyramid","ans":"ans175"} 
+    ,{"no":"176","qus":"Cognizant :70. Go to frame and click on the upload button and select the file which is in this directory","ans":"ans176"} 
+    ,{"no":"177","qus":"Cognizant :71. Difference between PUTS and POST in API","ans":"ans177"} 
+    ,{"no":"178","qus":"Cognizant :72. Read data from Excel and given that data as input for login and password and click on submit and validate the popup which says Login is success…","ans":"ans178"} 
+    ,{"no":"179","qus":"Cucumber1. keywords used inside CucumberOptions","ans":"ans179"} 
+    ,{"no":"180","qus":"Cucumber2. Difference between DryRun and Strict in cucumberOptions","ans":"ans180"} 
+    ,{"no":"181","qus":"Cucumber3. And/OR operation in Tags","ans":"ans181"} 
+    ,{"no":"182","qus":"Cucumber4. Annotations in Cucumber","ans":"ans182"} 
+    ,{"no":"183","qus":"Cucumber5. Use of order function inside cucumber annotations","ans":"ans183"} 
+    ,{"no":"184","qus":"Cucumber6. Use of background keyword","ans":"ans184"} 
+    ,{"no":"185","qus":"Cucumber7. Keywords used in cucumber","ans":"ans185"} 
+    ,{"no":"186","qus":"Cucumber8. How to perform singleline and multiline comment in cucumber","ans":"ans186"} 
+    ,{"no":"187","qus":"Cucumber9. How data is passed in cucumber","ans":"ans187"} 
+    ,{"no":"188","qus":"Cucumber10. Use of ScenarioOutline and example","ans":"ans188"} 
+    ,{"no":"189","qus":"Cucumber11. What is dataTable","ans":"ans189"} 
+    ,{"no":"190","qus":"Cucumber12. Can user provide multiple examples for one scenario outline","ans":"ans190"} 
+    ,{"no":"191","qus":"Ebay JAVA :What all collections you have used","ans":"ans191"} 
+    ,{"no":"192","qus":"Ebay JAVA :What is the approch for HybridFW you used to develop.","ans":"ans192"} 
+    ,{"no":"193","qus":"Ebay JAVA :Why KeywordDriven framework you have used.","ans":"ans193"} 
+    ,{"no":"194","qus":"Ebay JAVA :Why Set<Iterator> you have used for handling window Handles","ans":"ans194"} 
+    ,{"no":"195","qus":"Ebay JAVA :Internal Implementation of HashMap,ArrayList and Set Operator if you know ?","ans":"ans195"} 
+    ,{"no":"196","qus":"Ebay JAVA :Have you written any Utilities.?","ans":"ans196"} 
+    ,{"no":"197","qus":"Ebay JAVA :What will PageObject model will consists of ,how do you specify the elements in it.","ans":"ans197"} 
+    ,{"no":"198","qus":"Ebay JAVA :Where all you have used ArrayList,Set and HashMap in your application.","ans":"ans198"} 
+    ,{"no":"199","qus":"Ebay JAVA :What kind of dependencies you have added in the Maven and for what","ans":"ans199"} 
+    ,{"no":"200","qus":"Ebay JAVA :What is your roles and responsibilities for automation.","ans":"ans200"} 
+    ,{"no":"201","qus":"Ebay JAVA :Explain driver.getWindowHandles() in detail,how it will function.","ans":"ans201"} 
+    ,{"no":"202","qus":"Ebay JAVA :Explain each usage of collection used in your project","ans":"ans202"} 
+    ,{"no":"203","qus":"Ebay JAVA % Seleium :1)Which application you work on : Web Application or Windows Application?","ans":"ans203"} 
+    ,{"no":"204","qus":"Ebay JAVA % Seleium :2)WAP on java: fibonacci series, reverse a string, reverse a string using recursion?","ans":"ans204"} 
+    ,{"no":"205","qus":"Ebay JAVA % Seleium :3)Maven - What is Maven , Why do we use it and How do we use it","ans":"ans205"} 
+    ,{"no":"206","qus":"Ebay JAVA % Seleium :4)what is maven life cycle?","ans":"ans206"} 
+    ,{"no":"207","qus":"Ebay JAVA % Seleium :5)What is StringBuffer and StringBuilder","ans":"ans207"} 
+    ,{"no":"208","qus":"Ebay JAVA % Seleium :6)Explain Parallel exection using grid ?","ans":"ans208"} 
+    ,{"no":"209","qus":"Ebay JAVA % Seleium :7)Give examples of Polymorphism,Abstraction(simple code explaination)","ans":"ans209"} 
+    ,{"no":"210","qus":"Ebay JAVA % Seleium :8)why do we use singleton class?","ans":"ans210"} 
+    ,{"no":"211","qus":"Ebay JAVA % Seleium :9)Explain your framework","ans":"ans211"} 
+    ,{"no":"212","qus":"Ebay JAVA % Seleium :10)what is the use of PageFactory.initElements?Can we implement it using PageFactory.initElements or @FindBy?","ans":"ans212"} 
+    ,{"no":"213","qus":"Ebay JAVA % Seleium :11)How do we clean the Maven environment?","ans":"ans213"} 
+    ,{"no":"214","qus":"Ebay JAVA % Seleium :12)A particular list of buttons are there?Write the xpath for it?","ans":"ans214"} 
+    ,{"no":"215","qus":"Ebay JAVA % Seleium :13)How do you configure testNG?what do you write in the .bat file?","ans":"ans215"} 
+    ,{"no":"216","qus":"Ebay Testing :what is smoke testing?","ans":"ans216"} 
+    ,{"no":"217","qus":"Ebay Testing :how can you test Mouse?","ans":"ans217"} 
+    ,{"no":"218","qus":"Ebay Testing :expline about defect tracking?","ans":"ans218"} 
+    ,{"no":"219","qus":"Ebay Testing :differance between sanity & smoke testing?","ans":"ans219"} 
+    ,{"no":"220","qus":"Ebay Testing :what is compatibility testing?","ans":"ans220"} 
+    ,{"no":"221","qus":"Ebay Testing :What is acceptance testing ?when we do?","ans":"ans221"} 
+    ,{"no":"222","qus":"Ebay Testing :difference between bug & defect?s?","ans":"ans222"} 
+    ,{"no":"223","qus":"Ebay Testing :what is automation test life cycle?","ans":"ans223"} 
+    ,{"no":"224","qus":"Ebay Testing :what is usability testing?","ans":"ans224"} 
+    ,{"no":"225","qus":"EFSystems1.how to run tests parallely in different browsers","ans":"ans225"} 
+    ,{"no":"226","qus":"EFSystems2.java program to reverse String","ans":"ans226"} 
+    ,{"no":"227","qus":"EFSystems3.pgm to sort array in ascending order","ans":"ans227"} 
+    ,{"no":"228","qus":"EFSystems4.diff b/w implicit wait and explicit wait","ans":"ans228"} 
+    ,{"no":"229","qus":"EFSystems5.Test case Design Techniques","ans":"ans229"} 
+    ,{"no":"230","qus":"EFSystems6.dif b/w delete drop and truncate","ans":"ans230"} 
+    ,{"no":"231","qus":"EFSystems7.wat is inheritence polymorphism and encapsulation","ans":"ans231"} 
+    ,{"no":"232","qus":"EFSystems8.wat is interface","ans":"ans232"} 
+    ,{"no":"233","qus":"Emphasis :1)Difference b/w interface and abstract class?","ans":"ans233"} 
+    ,{"no":"234","qus":"Emphasis :2)Difference b/w throw and throws?","ans":"ans234"} 
+    ,{"no":"235","qus":"Emphasis :3)What is finally ?","ans":"ans235"} 
+    ,{"no":"236","qus":"Emphasis :4)What is method overloading and method overriding?","ans":"ans236"} 
+    ,{"no":"237","qus":"Emphasis :5)What is object class?","ans":"ans237"} 
+    ,{"no":"238","qus":"Emphasis :6)What is reflection?","ans":"ans238"} 
+    ,{"no":"239","qus":"Emphasis :7)Write a program a reverse string?","ans":"ans239"} 
+    ,{"no":"240","qus":"Emphasis :8)Given string mahesh234 , extract only number , write a logic ?","ans":"ans240"} 
+    ,{"no":"241","qus":"Emphasis :9)Given input in array { 248} , print only alternate number ?","ans":"ans241"} 
+    ,{"no":"242","qus":"Emphasis :10)What is set ,list , array,arraylist , hashMap ?","ans":"ans242"} 
+    ,{"no":"243","qus":"Emphasis API :What is saop and rest api?","ans":"ans243"} 
+    ,{"no":"244","qus":"Emphasis API :Whats is 200 in postman?","ans":"ans244"} 
+    ,{"no":"245","qus":"Emphasis API :What is forbidden error?","ans":"ans245"} 
+    ,{"no":"246","qus":"Emphasis API :What is 500 status code in postman ?","ans":"ans246"} 
+    ,{"no":"247","qus":"Emphasis API :What is 401 status code?","ans":"ans247"} 
+    ,{"no":"248","qus":"Emphasis API :What is 503 status code?","ans":"ans248"} 
+    ,{"no":"249","qus":"Emphasis BBD :1)Diffence b/w scenario outline and datatables?","ans":"ans249"} 
+    ,{"no":"250","qus":"Emphasis BBD :2) What is hookes?","ans":"ans250"} 
+    ,{"no":"251","qus":"Emphasis BBD :3) what is dryrun?","ans":"ans251"} 
+    ,{"no":"252","qus":"Emphasis BBD :4) how you will handle miss implemented methods in stepdefiniaton?","ans":"ans252"} 
+    ,{"no":"253","qus":"Emphasis BBD :5) what is stepdefiniaton?","ans":"ans253"} 
+    ,{"no":"254","qus":"Emphasis BBD :6)in feature we can maintain more scenarios ?","ans":"ans254"} 
+    ,{"no":"255","qus":"Emphasis BBD :7) in feature file we have common method ,how you can handle ,which keyword we can use?","ans":"ans255"} 
+    ,{"no":"256","qus":"Emphasis Selenium :1) explain framework structure?","ans":"ans256"} 
+    ,{"no":"257","qus":"Emphasis Selenium :2) explain oops concepts where you implemented?","ans":"ans257"} 
+    ,{"no":"258","qus":"Emphasis Selenium :3) different b/w pagefactory and pom?","ans":"ans258"} 
+    ,{"no":"259","qus":"Emphasis Selenium :4) in pom if you not intalised the pagefactory what exception we will get?","ans":"ans259"} 
+    ,{"no":"260","qus":"Emphasis Selenium :6) how you will handle image one place to another place?","ans":"ans260"} 
+    ,{"no":"261","qus":"Emphasis Selenium :7) how you will handle iframes?","ans":"ans261"} 
+    ,{"no":"262","qus":"Emphasis Selenium :8) you have multiples windows, close the child windows , how you come back parent window?","ans":"ans262"} 
+    ,{"no":"263","qus":"Emphasis Selenium :9) how you will clear data with out using clear method?","ans":"ans263"} 
+    ,{"no":"264","qus":"Emphasis Selenium :10) how you will pass the value with out using send keys?","ans":"ans264"} 
+    ,{"no":"265","qus":"Emphasis Selenium :11) how you will take screenshots?","ans":"ans265"} 
+    ,{"no":"266","qus":"Emphasis Selenium :12) if you add standlone sever in project? When build the project standard sever also update?","ans":"ans266"} 
+    ,{"no":"267","qus":"Emphasis Selenium :Explain jenkins?","ans":"ans267"} 
+    ,{"no":"268","qus":"Emphasis Selenium :Explain maven build tool ?","ans":"ans268"} 
+    ,{"no":"269","qus":"Emphasis Testng :1) How to execute the one test couples times?","ans":"ans269"} 
+    ,{"no":"270","qus":"Emphasis Testng :2) how to execute the  10 test cases sequence order?","ans":"ans270"} 
+    ,{"no":"271","qus":"Emphasis Testng :3) what is data provider?","ans":"ans271"} 
+    ,{"no":"272","qus":"Emphasis Testng :4) you have two test case A and B , which one it Will execute first'?","ans":"ans272"} 
+    ,{"no":"273","qus":"Emphasis Testng :5) while execute the test case if you not provide @Test annotation what will happen?","ans":"ans273"} 
+    ,{"no":"274","qus":"Erricson :How selenium will select/click elements on the webpage.","ans":"ans274"} 
+    ,{"no":"275","qus":"Erricson :How you will idenity elements.","ans":"ans275"} 
+    ,{"no":"276","qus":"Erricson :How your testscript will look for login page.","ans":"ans276"} 
+    ,{"no":"277","qus":"Erricson :If you have 10 testscripts,and in each testscript there are 5 TestNGMethods how you will execute.","ans":"ans277"} 
+    ,{"no":"278","qus":"Erricson :If you want to verify data you selected in one Testmethod ,is same displayed in the another testmethod/webpage (Ex:Shopping Cart)","ans":"ans278"} 
+    ,{"no":"279","qus":"Erricson :What is Axes in the X path","ans":"ans279"} 
+    ,{"no":"280","qus":"Erricson :How do you run tests using Testng  (answer:xml)","ans":"ans280"} 
+    ,{"no":"281","qus":"Erricson :How do you execute your fraamework from command prompt java -cp bin;jars/* org.testng.TestNG <suitename>.xml","ans":"ans281"} 
+    ,{"no":"282","qus":"FICO :.what is the default package in java ?","ans":"ans282"} 
+    ,{"no":"283","qus":"FICO :2.: why we use interface why not abstract class ...what if i implements same method in interface and abstract ....thn ?? any diffrnc??","ans":"ans283"} 
+    ,{"no":"284","qus":"FICO :3. what are inner classes ..name them ?","ans":"ans284"} 
+    ,{"no":"285","qus":"FICO :4.in public static void main(String arr[])... what if i replace public with private ........... remove static ........replace void with string","ans":"ans285"} 
+    ,{"no":"286","qus":"FICO :5.in hash map we have (key and value ) pair , can we store inside a value =(key, value ) again ??","ans":"ans286"} 
+    ,{"no":"287","qus":"FICO :5. what are variable scope in java (in class , in method , in static block)","ans":"ans287"} 
+    ,{"no":"288","qus":"FICO :6. what are the oops concept ? explain them each with real world examples","ans":"ans288"} 
+    ,{"no":"289","qus":"FICO :8. what is singleton classes ?","ans":"ans289"} 
+    ,{"no":"290","qus":"FICO :9.what is difference between .equals() , (==) and compare-to();","ans":"ans290"} 
+    ,{"no":"291","qus":"FICO :10. what is the difference between hash code and equals","ans":"ans291"} 
+    ,{"no":"292","qus":"FICO :11.write a program to get substring of string ex: javais good ... so result : avais","ans":"ans292"} 
+    ,{"no":"293","qus":"FICO :12.write a program to reverse the string","ans":"ans293"} 
+    ,{"no":"294","qus":"FICO :13. wap for binary search","ans":"ans294"} 
+    ,{"no":"295","qus":"FICO :14.what is the use of package","ans":"ans295"} 
+    ,{"no":"296","qus":"FICO :15. why we use interface and abstract","ans":"ans296"} 
+    ,{"no":"297","qus":"FICO :16.we have 2 interface both have print method , in my class i have implemented the print method , how u wil get to know that i have implemented the first interface and how u will use it .. if u want to use it","ans":"ans297"} 
+    ,{"no":"298","qus":"FICO :17.what is the difference between vector list and arraylist","ans":"ans298"} 
+    ,{"no":"299","qus":"FICO :18. difference between hashmap and hash table, what is synchronization , how it is achieved","ans":"ans299"} 
+    ,{"no":"300","qus":"FICO :19. what is the use of collection, when we use it","ans":"ans300"} 
+    ,{"no":"301","qus":"FICO :20. what is priority queue in collection , what is the use , how u have use in your project","ans":"ans301"} 
+    ,{"no":"302","qus":"FICO :21.where to use hashmap and hashtable","ans":"ans302"} 
+    ,{"no":"303","qus":"FICO :22. where u have use the concept of interface and abstract in your framework","ans":"ans303"} 
+    ,{"no":"304","qus":"GenpactHeadStrong :1. factorial,prime,armstorngnumber,swaping two numbers without temp var--Programs","ans":"ans304"} 
+    ,{"no":"305","qus":"GenpactHeadStrong :2. interface,abstraction,encapsulation","ans":"ans305"} 
+    ,{"no":"306","qus":"GenpactHeadStrong :3. diff between pagefactory n pageobject model","ans":"ans306"} 
+    ,{"no":"307","qus":"GenpactHeadStrong :4. printstacktrace(exception related)","ans":"ans307"} 
+    ,{"no":"308","qus":"GenpactHeadStrong :5. diff between string.equals and string1==string2","ans":"ans308"} 
+    ,{"no":"309","qus":"GenpactHeadStrong :6. normalisation","ans":"ans309"} 
+    ,{"no":"310","qus":"GenpactHeadStrong :7. searching with keyword and copy all the files name into one file","ans":"ans310"} 
+    ,{"no":"311","qus":"GenpactHeadStrong :8. how grid works","ans":"ans311"} 
+    ,{"no":"312","qus":"GenpactHeadStrong :9. how to debug or fix the issue","ans":"ans312"} 
+    ,{"no":"313","qus":"GenpactHeadStrong :10. how to switch from one window to another window","ans":"ans313"} 
+    ,{"no":"314","qus":"GenpactHeadStrong :11. mousemover concept","ans":"ans314"} 
+    ,{"no":"315","qus":"GenpactHeadStrong :12. explain testNG framework","ans":"ans315"} 
+    ,{"no":"316","qus":"GenpactHeadStrong :13. dataprovide,findby annotation","ans":"ans316"} 
+    ,{"no":"317","qus":"GenpactHeadStrong :14. how to do exectuion of second method after first method method exectuion only without giving priority","ans":"ans317"} 
+    ,{"no":"318","qus":"GenpactHeadStrong :15. what is diff between string,string buffer,string builder","ans":"ans318"} 
+    ,{"no":"319","qus":"GenpactHeadStrong :16. diff between method overloading n method overriding","ans":"ans319"} 
+    ,{"no":"320","qus":"GenpactHeadStrong :17. exception means? how do u recongnise where to fix in lengthy code if somewhere exception occurs while executing","ans":"ans320"} 
+    ,{"no":"321","qus":"GenpactHeadStrong :18. diff between list-iterator and iterator","ans":"ans321"} 
+    ,{"no":"322","qus":"GenpactHeadStrong :19. what is hashmap","ans":"ans322"} 
+    ,{"no":"323","qus":"GenpactHeadStrong :20. how do u execute testcases using testng","ans":"ans323"} 
+    ,{"no":"324","qus":"GenpactHeadStrong :21. how do u run batch execution, which one ur using for tht","ans":"ans324"} 
+    ,{"no":"325","qus":"GenpactHeadStrong :22. how to print webtable in same structure on console","ans":"ans325"} 
+    ,{"no":"326","qus":"GenpactHeadStrong :23. how do you switch multiple windows","ans":"ans326"} 
+    ,{"no":"327","qus":"GenpactHeadStrong :24. how do you switch between tabs","ans":"ans327"} 
+    ,{"no":"328","qus":"GenpactHeadStrong :25. How do you find webpage background color","ans":"ans328"} 
+    ,{"no":"329","qus":"GenpactHeadStrong :1. How do you write xpath, if last three characters keeps on changing EX : 'abc_ _ _'.","ans":"ans329"} 
+    ,{"no":"330","qus":"GenpactHeadStrong :2. Pagefactory concepts.","ans":"ans330"} 
+    ,{"no":"331","qus":"GenpactHeadStrong :3. Collections, list concepts.","ans":"ans331"} 
+    ,{"no":"332","qus":"GenpactHeadStrong :4. Have you involved in Framework developement?","ans":"ans332"} 
+    ,{"no":"333","qus":"GenpactHeadStrong :5. How do you fetch data from webtable in a webpage?","ans":"ans333"} 
+    ,{"no":"334","qus":"GenpactHeadStrong :6. In a webtable, how do you fetch only last column data?","ans":"ans334"} 
+    ,{"no":"335","qus":"GenpactHeadStrong :7. How do you handle dynamic element?","ans":"ans335"} 
+    ,{"no":"336","qus":"GenpactHeadStrong :8. What is concrete method?","ans":"ans336"} 
+    ,{"no":"337","qus":"GenpactHeadStrong :9. Actions, windowhandle and Select concepts.","ans":"ans337"} 
+    ,{"no":"338","qus":"GenpactHeadStrong :10 Are you using any build tool?","ans":"ans338"} 
+    ,{"no":"339","qus":"GenpactHeadStrong :11. Grid concepts.","ans":"ans339"} 
+    ,{"no":"340","qus":"GenpactHeadStrong :12. How much do you rate yourself in Java out of 5?","ans":"ans340"} 
+    ,{"no":"341","qus":"GenpactHeadStrong :13. Which API used to fetch data from excel sheet?","ans":"ans341"} 
+    ,{"no":"342","qus":"GenpactHeadStrong :1. When do you abstract class and when do you use interfaces.","ans":"ans342"} 
+    ,{"no":"343","qus":"GenpactHeadStrong :2. Have you written / are there any interface in your automation frame work.","ans":"ans343"} 
+    ,{"no":"344","qus":"GenpactHeadStrong :3. How do you run Java","ans":"ans344"} 
+    ,{"no":"345","qus":"GIT1. Use of common commands used:       add, status, commit, push, pull, restore, checkout, clone","ans":"ans345"} 
+    ,{"no":"346","qus":"GIT2. How to handle merge conflicts","ans":"ans346"} 
+    ,{"no":"347","qus":"GIT3. How merge issues occur.","ans":"ans347"} 
+    ,{"no":"348","qus":"HappiestMinds :1.Explain your prevoius project, ur role","ans":"ans348"} 
+    ,{"no":"349","qus":"HappiestMinds : 2.how u rate ur self in java?","ans":"ans349"} 
+    ,{"no":"350","qus":"HappiestMinds : 3.Overloading and Overriding ...when u use overLoading and Overriding.","ans":"ans350"} 
+    ,{"no":"351","qus":"HappiestMinds : 4.What is singleton and have used singleton concept in ur project ??","ans":"ans351"} 
+    ,{"no":"352","qus":"HappiestMinds : 5.What is TestNG framework and what annotations u have worked on.","ans":"ans352"} 
+    ,{"no":"353","qus":"HappiestMinds : 6.Write a syntax for the dataprovider in TestNg?","ans":"ans353"} 
+    ,{"no":"354","qus":"HappiestMinds : 7.What are the frameworks u are aware of?","ans":"ans354"} 
+    ,{"no":"355","qus":"HappiestMinds : 8.What are issues u faced in ur project while automation","ans":"ans355"} 
+    ,{"no":"356","qus":"HappiestMinds : 9.Have u followed the agile methodology??What will u do if u find the bug at the end of the sprint and how fast will u make sure that the bug is fixed and verified.","ans":"ans356"} 
+    ,{"no":"357","qus":"HappiestMinds : 10.Have u done compatibility testing ?? what all browsers u have used?","ans":"ans357"} 
+    ,{"no":"358","qus":"HappiestMinds : 11.How do u run the scripts on other browser like IE,Chrome,write the code","ans":"ans358"} 
+    ,{"no":"359","qus":"HappiestMinds : 12.what are exceptions u have handled in selenium webdriver","ans":"ans359"} 
+    ,{"no":"360","qus":"HappiestMinds :1.Explain ur FramwWork","ans":"ans360"} 
+    ,{"no":"361","qus":"HappiestMinds :2.How u will run tests parallely","ans":"ans361"} 
+    ,{"no":"362","qus":"HappiestMinds :3.pgm to search ipod in flipkart and sort the results in ascending order based on price","ans":"ans362"} 
+    ,{"no":"363","qus":"HappiestMinds :4.give examples for Checked exception and Runtime Exception.","ans":"ans363"} 
+    ,{"no":"364","qus":"HappiestMinds :5.Some time application takes 2 sec to load some time 30 sec some times more than 5 min how u will handle this.**","ans":"ans364"} 
+    ,{"no":"365","qus":"HappiestMinds :6.wat is maven and wat is ant","ans":"ans365"} 
+    ,{"no":"366","qus":"HappiestMinds : 1.Explain ur FrameWork","ans":"ans366"} 
+    ,{"no":"367","qus":"HappiestMinds : 2.How u will run tests parallely","ans":"ans367"} 
+    ,{"no":"368","qus":"HappiestMinds : 3.pgm to search ipod in flipkart and sort the results in ascending order based on price","ans":"ans368"} 
+    ,{"no":"369","qus":"HappiestMinds : 4.give examples for Checked exception and Runtime Exception.","ans":"ans369"} 
+    ,{"no":"370","qus":"HappiestMinds : 5.Some time application takes 2 sec to load some time 30 sec some times more than 5 min how u will handle this.","ans":"ans370"} 
+    ,{"no":"371","qus":"HappiestMinds : 6.wat is maven and wat is ant Maven is dependance tool (used to download latest jar from internet before running) ANT is Build tool","ans":"ans371"} 
+    ,{"no":"372","qus":"HappiestMinds : 7.In a String remove duplicate words and duplicate characters.","ans":"ans372"} 
+    ,{"no":"373","qus":"HappiestMinds : 8.what is checked exception and gve example Exception which are verified by the compiler before the compilation and it makes it mandatory to try-catch or throws. are checked exception example InvalidFormatException, IOException, InterruptedException","ans":"ans373"} 
+    ,{"no":"374","qus":"HappiestMinds : 9.Script to find ipad in flipkart and the results should store in ascending order","ans":"ans374"} 
+    ,{"no":"375","qus":"HappyestMind&Ness :1.Write the syntax of drop down","ans":"ans375"} 
+    ,{"no":"376","qus":"HappyestMind&Ness :2.What is Webdriver-Java interface","ans":"ans376"} 
+    ,{"no":"377","qus":"HappyestMind&Ness :3.What is the current Version of Selinumwebdriver","ans":"ans377"} 
+    ,{"no":"378","qus":"HappyestMind&Ness :4.How to get the text value from text box","ans":"ans378"} 
+    ,{"no":"379","qus":"HappyestMind&Ness :5.StrinG x='ABC'; String x='ab'; does it create two objects?","ans":"ans379"} 
+    ,{"no":"380","qus":"HappyestMind&Ness :6.write a program to compare the strings","ans":"ans380"} 
+    ,{"no":"381","qus":"HappyestMind&Ness :7.Class a {} class b extends a{} A a= new A();  B b=new B(); A a= new B(); B a=new A();","ans":"ans381"} 
+    ,{"no":"382","qus":"HappyestMind&Ness :Which is valid and invalid?","ans":"ans382"} 
+    ,{"no":"383","qus":"HappyestMind&Ness :8.How to handle differnt type of pop up.(Wnidow,Alerts,Invisiblepopup)","ans":"ans383"} 
+    ,{"no":"384","qus":"HappyestMind&Ness :9.How to handle DropDown menu","ans":"ans384"} 
+    ,{"no":"385","qus":"HappyestMind&Ness :10. How to handle SSL certificate","ans":"ans385"} 
+    ,{"no":"386","qus":"HappyestMind&Ness :11.How to handle Google search text.","ans":"ans386"} 
+    ,{"no":"387","qus":"HappyestMind&Ness :12. How to handle dynamic text box which contains the 3 numbers, get","ans":"ans387"} 
+    ,{"no":"388","qus":"HappyestMind&Ness :the number and add the three number and add it other text box.","ans":"ans388"} 
+    ,{"no":"389","qus":"HappyestMind&Ness :13.How to handle Ajax Objects","ans":"ans389"} 
+    ,{"no":"390","qus":"HappyestMind&Ness :8.Explain webdriver architecture","ans":"ans390"} 
+    ,{"no":"391","qus":"HappyestMind&Ness :9.Explain File downloading","ans":"ans391"} 
+    ,{"no":"392","qus":"HappyestMind&Ness :10.Explain File attachments other that Auto IT","ans":"ans392"} 
+    ,{"no":"393","qus":"HappyestMind&Ness :11.Write the syntax for finding the row count in dynamic web table","ans":"ans393"} 
+    ,{"no":"394","qus":"HappyestMind&Ness :12.Differnece between class and Interface","ans":"ans394"} 
+    ,{"no":"395","qus":"HappyestMind&Ness :13. What type of class is the string class","ans":"ans395"} 
+    ,{"no":"396","qus":"HappyestMind&Ness :14.WHAT are the differnt methods that are used along with Xpath","ans":"ans396"} 
+    ,{"no":"397","qus":"HappyestMind&Ness :15.Explain Interface","ans":"ans397"} 
+    ,{"no":"398","qus":"HappyestMind&Ness :16 Explain Abstract","ans":"ans398"} 
+    ,{"no":"399","qus":"HappyestMind&Ness :17.What is selenum grid","ans":"ans399"} 
+    ,{"no":"400","qus":"HappyestMind&Ness :18 what is selenium RC","ans":"ans400"} 
+    ,{"no":"401","qus":"HappyestMind&Ness :19.Why is key word drivern frame work only choosen,","ans":"ans401"} 
+    ,{"no":"402","qus":"HappyestMind&Ness :1. how to handle dynamic object","ans":"ans402"} 
+    ,{"no":"403","qus":"HappyestMind&Ness :2. how to work with button which is in div tag and and u have to click without using xpath","ans":"ans403"} 
+    ,{"no":"404","qus":"HappyestMind&Ness :3. JVM is dependent or independent platform","ans":"ans404"} 
+    ,{"no":"405","qus":"HappyestMind&Ness :4.how many Test script you write in day","ans":"ans405"} 
+    ,{"no":"406","qus":"HappyestMind&Ness :5. describe your framework","ans":"ans406"} 
+    ,{"no":"407","qus":"HappyestMind&Ness :6. how to parameterized your junit","ans":"ans407"} 
+    ,{"no":"408","qus":"HappyestMind&Ness :7.how to handle ssl security","ans":"ans408"} 
+    ,{"no":"409","qus":"HappyestMind&Ness :8. how to handle window pops","ans":"ans409"} 
+    ,{"no":"410","qus":"HappyestMind&Ness :9. diffnct between implicit and explicit","ans":"ans410"} 
+    ,{"no":"411","qus":"HappyestMind&Ness :10.what are the types of assertion and what are assertion in junit","ans":"ans411"} 
+    ,{"no":"412","qus":"HappyestMind&Ness :11.How to handle ssl certificate","ans":"ans412"} 
+    ,{"no":"413","qus":"HappyestMind&Ness :12.What is dom concept","ans":"ans413"} 
+    ,{"no":"414","qus":"HappyestMind&Ness :13.What is the challenges u have faced during Automation","ans":"ans414"} 
+    ,{"no":"415","qus":"HappyestMind&Ness :14What is genrics","ans":"ans415"} 
+    ,{"no":"416","qus":"HappyestMind&Ness :15.What is synchronization","ans":"ans416"} 
+    ,{"no":"417","qus":"HappyestMind&Ness :1.JVM is dependent or independent platform","ans":"ans417"} 
+    ,{"no":"418","qus":"HappyestMind&Ness :2.diffn bwhashmap and hash set, set and linkedlist, arraylist and","ans":"ans418"} 
+    ,{"no":"419","qus":"HappyestMind&Ness :vector list , linkedhash set and hashset","ans":"ans419"} 
+    ,{"no":"420","qus":"HappyestMind&Ness :3.abstract and interface","ans":"ans420"} 
+    ,{"no":"421","qus":"HappyestMind&Ness :4.throw and throws","ans":"ans421"} 
+    ,{"no":"422","qus":"HappyestMind&Ness :5.how to split","ans":"ans422"} 
+    ,{"no":"423","qus":"HappyestMind&Ness :6.checked and unchecked exception","ans":"ans423"} 
+    ,{"no":"424","qus":"HappyestMind&Ness :7.how to work with ajax aplication","ans":"ans424"} 
+    ,{"no":"425","qus":"HappyestMind&Ness :8.why sring is immutable","ans":"ans425"} 
+    ,{"no":"426","qus":"HappyestMind&Ness :9.wat is the retruntype of getwindowhandles();","ans":"ans426"} 
+    ,{"no":"427","qus":"HappyestMind&Ness :10.what are the types of assertion and what are assertion in java","ans":"ans427"} 
+    ,{"no":"428","qus":"HappyestMind&Ness :11.differnce between interface and Abstract classes","ans":"ans428"} 
+    ,{"no":"429","qus":"HappyestMind&Ness :12.What is static varaible","ans":"ans429"} 
+    ,{"no":"430","qus":"HappyestMind&Ness :13.what is volatile","ans":"ans430"} 
+    ,{"no":"431","qus":"HappyestMind&Ness :14. what is trainsient","ans":"ans431"} 
+    ,{"no":"432","qus":"HappyestMind&Ness :15.what is the differnece between Final,Finalize and finally","ans":"ans432"} 
+    ,{"no":"433","qus":"HappyestMind&Ness :16.what is the differnce between Public,private and protected","ans":"ans433"} 
+    ,{"no":"434","qus":"HCL :1.which frame work ur using and explain Framework","ans":"ans434"} 
+    ,{"no":"435","qus":"HCL :2.Questions on Nested frames Concept (Scenario given)","ans":"ans435"} 
+    ,{"no":"436","qus":"HCL :3.How ur using Agile Methodology in ur Project?","ans":"ans436"} 
+    ,{"no":"437","qus":"HCL :4.xpath Syntax","ans":"ans437"} 
+    ,{"no":"438","qus":"HCL :1.What is the Difference between final,finally,finalize","ans":"ans438"} 
+    ,{"no":"439","qus":"HCL :2.what is the difference between Call by value and call by referance","ans":"ans439"} 
+    ,{"no":"440","qus":"HCL :3.How to find out the length of the string without using length function","ans":"ans440"} 
+    ,{"no":"441","qus":"HCL :4.How to find out the part of the string from a string","ans":"ans441"} 
+    ,{"no":"442","qus":"HCL :5.difference between throw & throws","ans":"ans442"} 
+    ,{"no":"443","qus":"HCL :6.What is binding(Early and Late binding)","ans":"ans443"} 
+    ,{"no":"444","qus":"HCL :1.which frame work ur using and explain Framework","ans":"ans444"} 
+    ,{"no":"445","qus":"HCL :2.Questions on Nested frames Concept (Scenario given)","ans":"ans445"} 
+    ,{"no":"446","qus":"HCL :3.How ur using Agile Methodology in ur Project?","ans":"ans446"} 
+    ,{"no":"447","qus":"HCL :4.xpath Syntax","ans":"ans447"} 
+    ,{"no":"448","qus":"HCL :1. Code for Login page / how do you find and store the Elements / Locators ?","ans":"ans448"} 
+    ,{"no":"449","qus":"HCL :2. How to use the same Test Script for Localization testing ( for a different language browser / different language settings).","ans":"ans449"} 
+    ,{"no":"450","qus":"HCL :3. Why do we upcast FirefoxDriver to Webdriver ?","ans":"ans450"} 
+    ,{"no":"451","qus":"HCL :4. How do you use @parameter Annotation in TestNg ?","ans":"ans451"} 
+    ,{"no":"452","qus":"HCL :5. How do you use load elements through properties file and run using TestNG ?","ans":"ans452"} 
+    ,{"no":"453","qus":"HCL :What is desired capabilities?","ans":"ans453"} 
+    ,{"no":"454","qus":"HCL Program:1.Reverse a number","ans":"ans454"} 
+    ,{"no":"455","qus":"HCL Program:2.1,2,3,4,5,65,76,5,,4,33,4,34,232,3,2323,find the biggest number among these","ans":"ans455"} 
+    ,{"no":"456","qus":"HCL Program:simple string programe.","ans":"ans456"} 
+    ,{"no":"457","qus":"HCL Program:what is exception, types of exception","ans":"ans457"} 
+    ,{"no":"458","qus":"HCL Selenium:what is testng and its advantage","ans":"ans458"} 
+    ,{"no":"459","qus":"HCL Selenium:how to handle SSl/","ans":"ans459"} 
+    ,{"no":"460","qus":"HCL Selenium:how to handle alert","ans":"ans460"} 
+    ,{"no":"461","qus":"HCL Selenium:how to take screenshot","ans":"ans461"} 
+    ,{"no":"462","qus":"HCL Selenium:give the diagram write a scrpt..","ans":"ans462"} 
+    ,{"no":"463","qus":"HCL Selenium:tell me about Project .What are the challenge face during project","ans":"ans463"} 
+    ,{"no":"464","qus":"HCL Selenium:what is the difference between RC and webdriver","ans":"ans464"} 
+    ,{"no":"465","qus":"HCL Selenium:what is freamwork explain it.","ans":"ans465"} 
+    ,{"no":"466","qus":"HCL Selenium:why we use wait statement.","ans":"ans466"} 
+    ,{"no":"467","qus":"HCL Testing:what is the testcase technique","ans":"ans467"} 
+    ,{"no":"468","qus":"HCL Testing:why we write test case.","ans":"ans468"} 
+    ,{"no":"469","qus":"HCL Testing:bug life cycle","ans":"ans469"} 
+    ,{"no":"470","qus":"HCL Testing:what are the different status of bug","ans":"ans470"} 
+    ,{"no":"471","qus":"HCL Testing:what is the different between functional and smoke testing","ans":"ans471"} 
+    ,{"no":"472","qus":"HCL Testing:what is STLC.","ans":"ans472"} 
+    ,{"no":"473","qus":"Indeecom Java :1.what is polymorphism?types of polymorphism?","ans":"ans473"} 
+    ,{"no":"474","qus":"Indeecom Java :2.Access Modiefiers(Private,public,protected)","ans":"ans474"} 
+    ,{"no":"475","qus":"Indeecom Java :3.Object life cycle architecture?","ans":"ans475"} 
+    ,{"no":"476","qus":"Indeecom Java :4.singleTON Class?","ans":"ans476"} 
+    ,{"no":"477","qus":"Indeecom Java :5.Innerclass &Anonymous class?","ans":"ans477"} 
+    ,{"no":"478","qus":"Indeecom Java :6.how to print without main method 'hello'?","ans":"ans478"} 
+    ,{"no":"479","qus":"Indeecom Java :7.Method overloading & overriding & Inheritance?","ans":"ans479"} 
+    ,{"no":"480","qus":"Indeecom Selenium :1.what is selenium webdriver?advantage of against RC,IDE?","ans":"ans480"} 
+    ,{"no":"481","qus":"Indeecom Selenium :2.How to handle javascript popup?","ans":"ans481"} 
+    ,{"no":"482","qus":"Indeecom Selenium :3.How to handle iframes?","ans":"ans482"} 
+    ,{"no":"483","qus":"Indeecom Selenium :4.how to  hadle filedownload popup?","ans":"ans483"} 
+    ,{"no":"484","qus":"Indeecom Selenium :5.what  is the use of TestngListeners?","ans":"ans484"} 
+    ,{"no":"485","qus":"Indeecom Selenium :6.what is POM.XML?","ans":"ans485"} 
+    ,{"no":"486","qus":"Indeecom Selenium :7.what is ant & use in framework?","ans":"ans486"} 
+    ,{"no":"487","qus":"Infosys :1.Brief Description","ans":"ans487"} 
+    ,{"no":"488","qus":"Infosys :2.How will you rate yourself in Selenium.","ans":"ans488"} 
+    ,{"no":"489","qus":"Infosys :3.SIDE","ans":"ans489"} 
+    ,{"no":"490","qus":"Infosys :4.How will you handle pop-up.","ans":"ans490"} 
+    ,{"no":"491","qus":"Infosys :5.Which framework you are using in your project & why.","ans":"ans491"} 
+    ,{"no":"492","qus":"Infosys :6.How will you handle java script pop-up.","ans":"ans492"} 
+    ,{"no":"493","qus":"Infosys :7.How will you handle SSL issue","ans":"ans493"} 
+    ,{"no":"494","qus":"Infosys :8.How will you take screenshot.","ans":"ans494"} 
+    ,{"no":"495","qus":"Infosys :9.How will you handle AJAX?Explain it with code.","ans":"ans495"} 
+    ,{"no":"496","qus":"Infosys :10.Explain your framework.","ans":"ans496"} 
+    ,{"no":"497","qus":"Infosys :11.What is STLC,Test Plan & Defect Life Cycle(Procedure to file a defect)","ans":"ans497"} 
+    ,{"no":"498","qus":"Infosys :12.traceability matrix","ans":"ans498"} 
+    ,{"no":"499","qus":"Infosys :13.Selenium Grid concepts with code ?RC","ans":"ans499"} 
+    ,{"no":"500","qus":"Infosys :14.Project Description","ans":"ans500"} 
+    ,{"no":"501","qus":"Infosys :15.Diff between Implicitly Wait and Explicitly Wait","ans":"ans501"} 
+    ,{"no":"502","qus":"Infosys :16. When will you stop testing","ans":"ans502"} 
+    ,{"no":"503","qus":"Infosys :17.Thread 7 Synchronization in java","ans":"ans503"} 
+    ,{"no":"504","qus":"Infosys Selenium :18.why you switched three companies in 3 years.","ans":"ans504"} 
+    ,{"no":"505","qus":"Infosys Selenium :1. What difficulty you faced in Automation?","ans":"ans505"} 
+    ,{"no":"506","qus":"Infosys Selenium :2. What you do with your code when a new version of browser is launched?","ans":"ans506"} 
+    ,{"no":"507","qus":"Infosys Selenium :3. What are the features in your automation code?","ans":"ans507"} 
+    ,{"no":"508","qus":"Infosys Selenium :4. How to integrate HPALM/HPQC with Selenium?","ans":"ans508"} 
+    ,{"no":"509","qus":"Infosys Selenium :5. How you are sending the emails from framework, as .rar files are blocked in most of the companies?","ans":"ans509"} 
+    ,{"no":"510","qus":"Infosys Selenium :6. How code review is done for your code?","ans":"ans510"} 
+    ,{"no":"511","qus":"JAVA :1.what is constructor?use of constructor in class?","ans":"ans511"} 
+    ,{"no":"512","qus":"JAVA :2.why we  need to compile  a program?","ans":"ans512"} 
+    ,{"no":"513","qus":"JAVA :3.upcasting in java?","ans":"ans513"} 
+    ,{"no":"514","qus":"JAVA :4.polymorphism","ans":"ans514"} 
+    ,{"no":"515","qus":"JAVA :5.singleTon class","ans":"ans515"} 
+    ,{"no":"516","qus":"JAVA :6.overloading method","ans":"ans516"} 
+    ,{"no":"517","qus":"Java Collection1. Classes inside List interface, Set interface, Map Interface","ans":"ans517"} 
+    ,{"no":"518","qus":"Java Collection2. Arraylist vs Linkedlist","ans":"ans518"} 
+    ,{"no":"519","qus":"Java Collection3. Arraylist vs array","ans":"ans519"} 
+    ,{"no":"520","qus":"Java Collection4. Arraylist vs vector or stack","ans":"ans520"} 
+    ,{"no":"521","qus":"Java Collection5. Which class of List Interface to be used if user have more insertions and deletions","ans":"ans521"} 
+    ,{"no":"522","qus":"Java Collection6. Which class of List Interface to be used if user have more retrieval","ans":"ans522"} 
+    ,{"no":"523","qus":"Java Collection7. Set Interface: HashSet, TreeSet, SortedSet","ans":"ans523"} 
+    ,{"no":"524","qus":"Java Collection8. Map - HashMap, HashTable, TreeMap, LinkedHashMap.","ans":"ans524"} 
+    ,{"no":"525","qus":"Java Collection9. Stack and Queue","ans":"ans525"} 
+    ,{"no":"526","qus":"Java Collection10. How to maintain insertion order in Set, List and Map","ans":"ans526"} 
+    ,{"no":"527","qus":"Java Collection11. How to sort elements in ascending order in Set and Map","ans":"ans527"} 
+    ,{"no":"528","qus":"Java Programs1. String reverse","ans":"ans528"} 
+    ,{"no":"529","qus":"Java Programs2. String Palindrome","ans":"ans529"} 
+    ,{"no":"530","qus":"Java Programs3. String Anagram","ans":"ans530"} 
+    ,{"no":"531","qus":"Java Programs4. Find occurrences of characters in a string","ans":"ans531"} 
+    ,{"no":"532","qus":"Java Programs5. Find the count of Capital and Small letters in a string","ans":"ans532"} 
+    ,{"no":"533","qus":"Java Programs6. Remove duplicate characters from string","ans":"ans533"} 
+    ,{"no":"534","qus":"Java Programs7. Swap to numbers without temporary variable","ans":"ans534"} 
+    ,{"no":"535","qus":"Java Programs8. Reverse number","ans":"ans535"} 
+    ,{"no":"536","qus":"Java Programs9. factorial","ans":"ans536"} 
+    ,{"no":"537","qus":"Java Programs10. Fibonacci","ans":"ans537"} 
+    ,{"no":"538","qus":"Java Programs11. Count number, alphabet and special characters","ans":"ans538"} 
+    ,{"no":"539","qus":"Java-Basic1. Types of polymorphism","ans":"ans539"} 
+    ,{"no":"540","qus":"Java-Basic2. Difference between override and overload","ans":"ans540"} 
+    ,{"no":"541","qus":"Java-Basic3. Methods that cannot be overloaded","ans":"ans541"} 
+    ,{"no":"542","qus":"Java-Basic4. Static block and instance block","ans":"ans542"} 
+    ,{"no":"543","qus":"Java-Basic5. Difference in Static and non static","ans":"ans543"} 
+    ,{"no":"544","qus":"Java-Basic6. Encapsulation and common use cases","ans":"ans544"} 
+    ,{"no":"545","qus":"Java-Basic7. Abstract vs interfaces","ans":"ans545"} 
+    ,{"no":"546","qus":"Java-Basic8. Inheritance in java","ans":"ans546"} 
+    ,{"no":"547","qus":"Java-Basic9. Methods that cannot be overloaded","ans":"ans547"} 
+    ,{"no":"548","qus":"Java-Basic10. Type casting in java","ans":"ans548"} 
+    ,{"no":"549","qus":"Java-Basic11. String buffer and string builder","ans":"ans549"} 
+    ,{"no":"550","qus":"Java-Basic12. Why string is immutable in java","ans":"ans550"} 
+    ,{"no":"551","qus":"Java-Basic13. How to handle exceptions","ans":"ans551"} 
+    ,{"no":"552","qus":"Java-Basic14. Can I write try catch without the catch block","ans":"ans552"} 
+    ,{"no":"553","qus":"Java-Basic15. Difference between throws and throw","ans":"ans553"} 
+    ,{"no":"554","qus":"Java-Basic16. Use of iterator in java","ans":"ans554"} 
+    ,{"no":"555","qus":"Java-Basic17. Difference in Final, finally and finalize","ans":"ans555"} 
+    ,{"no":"556","qus":"Java-Basic18. Boxing and unboxing in java","ans":"ans556"} 
+    ,{"no":"557","qus":"Java-Basic19. Increment and decrement operation","ans":"ans557"} 
+    ,{"no":"558","qus":"Java-Basic20. Variable Args","ans":"ans558"} 
+    ,{"no":"559","qus":"Java-Basic21. This and super keyword in java","ans":"ans559"} 
+    ,{"no":"560","qus":"Java-Basic22. Issues during Swtich case without break","ans":"ans560"} 
+    ,{"no":"561","qus":"Java-Basic23. Upcasting and downcasting","ans":"ans561"} 
+    ,{"no":"562","qus":"Java-Basic24. Baseclass of all class in java","ans":"ans562"} 
+    ,{"no":"563","qus":"Java-Basic25. Baseclass of error and exceptions","ans":"ans563"} 
+    ,{"no":"564","qus":"Java-Basic26. Access specifiers","ans":"ans564"} 
+    ,{"no":"565","qus":"Java-Basic27. Continue and break statement","ans":"ans565"} 
+    ,{"no":"566","qus":"Java-Basic28. Can main method return any value","ans":"ans566"} 
+    ,{"no":"567","qus":"Java-Basic29. Can we overload main method. What happens when overloaded","ans":"ans567"} 
+    ,{"no":"568","qus":"Java-Basic30.how to execute and statement before main method","ans":"ans568"} 
+    ,{"no":"569","qus":"Java-Basic31. Difference between == and equals()","ans":"ans569"} 
+    ,{"no":"570","qus":"Java-Basic32. Can user declare constructor as final","ans":"ans570"} 
+    ,{"no":"571","qus":"Java-Basic33. Can we cast any other type to Boolean data with type casting.","ans":"ans571"} 
+    ,{"no":"572","qus":"Java-Basic34.does java compile if user use 'static public void' instead of 'public static void'","ans":"ans572"} 
+    ,{"no":"573","qus":"Java-Basic35.can we use this() and super() in a constructor","ans":"ans573"} 
+    ,{"no":"574","qus":"Java-Basic36. Can we create object of abstract class","ans":"ans574"} 
+    ,{"no":"575","qus":"Java-Basic37. Can we create reference for an abstract class","ans":"ans575"} 
+    ,{"no":"576","qus":"Java-Basic38. Can we declare a class as static","ans":"ans576"} 
+    ,{"no":"577","qus":"Java-Basic39. What is instanceOf keyword","ans":"ans577"} 
+    ,{"no":"578","qus":"Java-Basic40. What's the load factor of HashMap","ans":"ans578"} 
+    ,{"no":"579","qus":"Java-Basic41. How to prevent a class from being sub classes","ans":"ans579"} 
+    ,{"no":"580","qus":"Java-Basic42. Final variable, final method and final class","ans":"ans580"} 
+    ,{"no":"581","qus":"Java-Basic43. Ways to create a string variable.","ans":"ans581"} 
+    ,{"no":"582","qus":"Java-Basic44. What is gc() - garbage collector","ans":"ans582"} 
+    ,{"no":"583","qus":"Java-Basic45. Subclass and innerclass","ans":"ans583"} 
+    ,{"no":"584","qus":"Java-Basic46. Infinite loop in java","ans":"ans584"} 
+    ,{"no":"585","qus":"Java-Basic47. How to make copy of an element","ans":"ans585"} 
+    ,{"no":"586","qus":"Java-Basic48. Checked and unchecked exceptions","ans":"ans586"} 
+    ,{"no":"587","qus":"Mindtree :what framework have you worked and used in automation?","ans":"ans587"} 
+    ,{"no":"588","qus":"Mindtree :How many methods are there in in your framework libraries?","ans":"ans588"} 
+    ,{"no":"589","qus":"Mindtree :What all methods in libraries?","ans":"ans589"} 
+    ,{"no":"590","qus":"Mindtree :How many test scripts are there for your application?","ans":"ans590"} 
+    ,{"no":"591","qus":"Mindtree :How often do you run your automation test?","ans":"ans591"} 
+    ,{"no":"592","qus":"Mindtree :what is getAttribute and getText?","ans":"ans592"} 
+    ,{"no":"593","qus":"Mindtree :what is the time taken to run all your scripts?","ans":"ans593"} 
+    ,{"no":"594","qus":"Mindtree :what all settings do you do before running your automation test?","ans":"ans594"} 
+    ,{"no":"595","qus":"Mindtree :How do you pass values to method?","ans":"ans595"} 
+    ,{"no":"596","qus":"Mindtree :who writes the test cases?","ans":"ans596"} 
+    ,{"no":"597","qus":"Mindtree :write a script to print the multiples of 5?","ans":"ans597"} 
+    ,{"no":"598","qus":"Mindtree :How do change the run time property values of the element?","ans":"ans598"} 
+    ,{"no":"599","qus":"Mindtree :How do handle dynamic elements during run time?","ans":"ans599"} 
+    ,{"no":"600","qus":"Mindtree :what version of selenium do you use and which is the latest version?","ans":"ans600"} 
+    ,{"no":"601","qus":"Mindtree :Suppose a webtable is there with three columns such as combo box,name and id.I want to search a particular id and also check the checkbox for that particular id.How would you do that?","ans":"ans601"} 
+    ,{"no":"602","qus":"Prowareness :2. What is the level of involvement of Management in a Scrum team?","ans":"ans602"} 
+    ,{"no":"603","qus":"Prowareness :3. After a Sprint ends when the planning for next sprint begins?","ans":"ans603"} 
+    ,{"no":"604","qus":"Prowareness :4. Have you created VBA macros to update status of multiple test cases in QC?","ans":"ans604"} 
+    ,{"no":"605","qus":"Prowareness :5. I had DB2 exp in resume - so he asked me to write a join query invoving table A & B where only the values from table B be retrieved excluding those rows from B having matching rows in A.","ans":"ans605"} 
+    ,{"no":"606","qus":"Prowareness :6. What are the challenges you faced while creating framework?","ans":"ans606"} 
+    ,{"no":"607","qus":"Prowareness :7. Have you used Selenium Grid?","ans":"ans607"} 
+    ,{"no":"608","qus":"Prowareness :8. Have you run tests in parallel?","ans":"ans608"} 
+    ,{"no":"609","qus":"Prowareness :9. How will you wait until all the elements in a page gets loaded, the page is completely dynamic and you cannot guess which will be the last element to load.","ans":"ans609"} 
+    ,{"no":"610","qus":"Prowareness :10. When tests run in parallel how will Webdriver know that it has to work on a particular Browser window only?","ans":"ans610"} 
+    ,{"no":"611","qus":"Prowareness :11. When you move from one page to another how will you ensure that the proper page is loaded?","ans":"ans611"} 
+    ,{"no":"612","qus":"Prowareness :12. How will you drag and drop an element in a webpage?","ans":"ans612"} 
+    ,{"no":"613","qus":"Prowareness :13. If the element for which you are waiting for is not loaded, how will you handle the same?","ans":"ans613"} 
+    ,{"no":"614","qus":"Prowareness :14. How selenium interacts with Firefox, Chrome and IE (internal aspects)?","ans":"ans614"} 
+    ,{"no":"615","qus":"Prowareness :15. Have you used Javascript Executor in your scripting?","ans":"ans615"} 
+    ,{"no":"616","qus":"Prowareness :16. Why is main method Static?","ans":"ans616"} 
+    ,{"no":"617","qus":"Prowareness :17. Can the main method have return type other than void? (Yes it can, it can have return type int to provide info about successful execution, this info can be used in batch file/shell scripting - interviewers answer)","ans":"ans617"} 
+    ,{"no":"618","qus":"Prowareness :18. I was given a Unstable system of a Agile toolkit (its like our Jira) and was aked to list down the scenarios for testing Task Creation and editing the same. Also I was asked to find the bugs.","ans":"ans618"} 
+    ,{"no":"619","qus":"Prowareness :19. For the above scenario (point 18), I was asked to automate Task Creation and drag & drop of task from 'To Do' to 'In Progress'. This has to be done alongside with TestNG framework.I was given 2hrs for performing point 18 & 19.","ans":"ans619"} 
+    ,{"no":"620","qus":"QSG :1.Tell me about yourself","ans":"ans620"} 
+    ,{"no":"621","qus":"QSG :2.What is difference between array and string","ans":"ans621"} 
+    ,{"no":"622","qus":"QSG :3.What are different types you have in Microsoft Office","ans":"ans622"} 
+    ,{"no":"623","qus":"QSG :4.How do you create table in MS Office","ans":"ans623"} 
+    ,{"no":"624","qus":"QSG :5.How do you add column to a table","ans":"ans624"} 
+    ,{"no":"625","qus":"QSG :6.what is framework","ans":"ans625"} 
+    ,{"no":"626","qus":"QSG :7.write a prgm for sorting a string","ans":"ans626"} 
+    ,{"no":"627","qus":"QSG :8.Why we go for inheritance","ans":"ans627"} 
+    ,{"no":"628","qus":"QSG :9.what are different types of annotations expl @Groups","ans":"ans628"} 
+    ,{"no":"629","qus":"QSG :10.tell abt your s/m configuration","ans":"ans629"} 
+    ,{"no":"630","qus":"REST API1. Client/server Error Codes","ans":"ans630"} 
+    ,{"no":"631","qus":"REST API2. Success codes","ans":"ans631"} 
+    ,{"no":"632","qus":"REST API3. Use of GET, PUT, POST, PATCH, DELETE","ans":"ans632"} 
+    ,{"no":"633","qus":"REST API4. Difference between Put and Patch","ans":"ans633"} 
+    ,{"no":"634","qus":"REST API5. Difference between Put and Post","ans":"ans634"} 
+    ,{"no":"635","qus":"REST API6. How to handle authentication","ans":"ans635"} 
+    ,{"no":"636","qus":"REST API7. Difference between webserver and API","ans":"ans636"} 
+    ,{"no":"637","qus":"REST API8. Json/xml structure format","ans":"ans637"} 
+    ,{"no":"638","qus":"REST API9. How to validate json response","ans":"ans638"} 
+    ,{"no":"639","qus":"REST API10. Use of JsonPath","ans":"ans639"} 
+    ,{"no":"640","qus":"REST API11. How to construct json body for Put, Post, Patch request.","ans":"ans640"} 
+    ,{"no":"641","qus":"REST API12. Use of JsonObject.","ans":"ans641"} 
+    ,{"no":"642","qus":"REST API13. What's is URI","ans":"ans642"} 
+    ,{"no":"643","qus":"REST API14. What's a resource","ans":"ans643"} 
+    ,{"no":"644","qus":"REST API15. What are the common headers used.","ans":"ans644"} 
+    ,{"no":"645","qus":"REST API16. Common content types","ans":"ans645"} 
+    ,{"no":"646","qus":"Selenium1. Difference in driver.get() and driver.navigate().to()","ans":"ans646"} 
+    ,{"no":"647","qus":"Selenium2. Navigation methods in selenium","ans":"ans647"} 
+    ,{"no":"648","qus":"Selenium3. What is POM","ans":"ans648"} 
+    ,{"no":"649","qus":"Selenium4. Implicit wait","ans":"ans649"} 
+    ,{"no":"650","qus":"Selenium5. Explicit wait- use of explicit wait, how to ignore exceptions using explicit wait","ans":"ans650"} 
+    ,{"no":"651","qus":"Selenium6. Fluent wait","ans":"ans651"} 
+    ,{"no":"652","qus":"Selenium7. Examples for expected conditions in explicit wait","ans":"ans652"} 
+    ,{"no":"653","qus":"Selenium8. Default timeout of pageLoadTimeout.","ans":"ans653"} 
+    ,{"no":"654","qus":"Selenium9. Use of desired capabilities","ans":"ans654"} 
+    ,{"no":"655","qus":"Selenium10. Use of chromeOptions, firefoxOptions ,ieOptions, etc.","ans":"ans655"} 
+    ,{"no":"656","qus":"Selenium11. How to disable notification in selenium.","ans":"ans656"} 
+    ,{"no":"657","qus":"Selenium12. Difference between getText() and getAttribute()","ans":"ans657"} 
+    ,{"no":"658","qus":"Selenium13. How to extract css property value","ans":"ans658"} 
+    ,{"no":"659","qus":"Selenium14. Difference between driver.close() and driver.quit()","ans":"ans659"} 
+    ,{"no":"660","qus":"Selenium15. How to handle dropdown elements with select tag and without select tag.","ans":"ans660"} 
+    ,{"no":"661","qus":"Selenium16. How to handle frames and windows","ans":"ans661"} 
+    ,{"no":"662","qus":"Selenium17. How to switch back to parent window.","ans":"ans662"} 
+    ,{"no":"663","qus":"Selenium18. How to perform page scroll in selenium","ans":"ans663"} 
+    ,{"no":"664","qus":"Selenium19. Use of Robot keys","ans":"ans664"} 
+    ,{"no":"665","qus":"Selenium20. Use of AutoIt","ans":"ans665"} 
+    ,{"no":"666","qus":"Selenium21. Use of Sikuli","ans":"ans666"} 
+    ,{"no":"667","qus":"Selenium22. How to perform File Upload","ans":"ans667"} 
+    ,{"no":"668","qus":"Selenium23. How to click or send value to an element without using element.click() and element.sendKeys()","ans":"ans668"} 
+    ,{"no":"669","qus":"Selenium24. Relative and absolute xpath","ans":"ans669"} 
+    ,{"no":"670","qus":"Selenium25. Explain few Xpath functions","ans":"ans670"} 
+    ,{"no":"671","qus":"Selenium26. How to login to site showing authentication popup in selenium","ans":"ans671"} 
+    ,{"no":"672","qus":"Selenium27. Mention few selenium exceptions","ans":"ans672"} 
+    ,{"no":"673","qus":"Selenium28. Difference between single slash and double slash.","ans":"ans673"} 
+    ,{"no":"674","qus":"Selenium29. What are the scenarios that cannot be automated using selenium.","ans":"ans674"} 
+    ,{"no":"675","qus":"Selenium30. How to perform right click on selenium","ans":"ans675"} 
+    ,{"no":"676","qus":"Selenium31. Action class and it's methods","ans":"ans676"} 
+    ,{"no":"677","qus":"Selenium32. Use of HtmlUnit driver","ans":"ans677"} 
+    ,{"no":"678","qus":"Selenium33. Can we create an object of the WebDriver() in selenium?","ans":"ans678"} 
+    ,{"no":"679","qus":"Selenium34. What is stale element exception and how to handle it.","ans":"ans679"} 
+    ,{"no":"680","qus":"Selenium35. Xpath and CSS selector","ans":"ans680"} 
+    ,{"no":"681","qus":"Selenium :1.what is testng?use of testng in framework?","ans":"ans681"} 
+    ,{"no":"682","qus":"Selenium :2.how to handle alert,file upload popups","ans":"ans682"} 
+    ,{"no":"683","qus":"Selenium :3.method overloading in Selenium?","ans":"ans683"} 
+    ,{"no":"684","qus":"Selenium :4.access modifiers public,private,protected use in selenium","ans":"ans684"} 
+    ,{"no":"685","qus":"Selenium :5.What is POM.XML","ans":"ans685"} 
+    ,{"no":"686","qus":"Selenium :6.difference between .xml & .html","ans":"ans686"} 
+    ,{"no":"687","qus":"Selenium :7.handling frames in  selenium","ans":"ans687"} 
+    ,{"no":"688","qus":"Softway JAVA :1.what is constructor?use of constructor in class?","ans":"ans688"} 
+    ,{"no":"689","qus":"Softway JAVA :2.why we  need to compile  a program?","ans":"ans689"} 
+    ,{"no":"690","qus":"Softway JAVA :3.upcasting in java?","ans":"ans690"} 
+    ,{"no":"691","qus":"Softway JAVA :4.polymorphism","ans":"ans691"} 
+    ,{"no":"692","qus":"Softway JAVA :5.singleTon class","ans":"ans692"} 
+    ,{"no":"693","qus":"Softway JAVA :6.overloading method","ans":"ans693"} 
+    ,{"no":"694","qus":"Softway Selenium :1.what is testng?use of testng in framework?","ans":"ans694"} 
+    ,{"no":"695","qus":"Softway Selenium :2.how to handle alert,file upload popups","ans":"ans695"} 
+    ,{"no":"696","qus":"Softway Selenium :3.method overloading in Selenium?","ans":"ans696"} 
+    ,{"no":"697","qus":"Softway Selenium :4.access modifiers public,private,protected use in selenium","ans":"ans697"} 
+    ,{"no":"698","qus":"Softway Selenium :5.What is POM.XML","ans":"ans698"} 
+    ,{"no":"699","qus":"Softway Selenium :6.difference between .xml & .html","ans":"ans699"} 
+    ,{"no":"700","qus":"Softway Selenium :7.handling frames in  selenium","ans":"ans700"} 
+    ,{"no":"701","qus":"SQL :What is the difference between inner and outer join? Explain with example.","ans":"ans701"} 
+    ,{"no":"702","qus":"SQL : What is the difference between JOIN and UNION?","ans":"ans702"} 
+    ,{"no":"703","qus":"SQL : What is the difference between UNION and UNION ALL?","ans":"ans703"} 
+    ,{"no":"704","qus":"SQL : What is the difference between WHERE clause and HAVING clause?","ans":"ans704"} 
+    ,{"no":"705","qus":"SQL : What is the difference among UNION, MINUS and INTERSECT?","ans":"ans705"} 
+    ,{"no":"706","qus":"SQL : What is Self Join and why is it required?","ans":"ans706"} 
+    ,{"no":"707","qus":"SQL : How can we transpose a table using SQL (changing rows to column or vice-versa) ?","ans":"ans707"} 
+    ,{"no":"708","qus":"SQL : How can we transpose a table using SQL (changing rows to column or vice-versa) ?","ans":"ans708"} 
+    ,{"no":"709","qus":"SQL : How to select first 5 records from a table?","ans":"ans709"} 
+    ,{"no":"710","qus":"SQL : What is the difference between ROWNUM pseudo column and ROW_NUMBER() function?","ans":"ans710"} 
+    ,{"no":"711","qus":"SQL :What are the differences among ROWNUM, RANK and DENSE_RANK?","ans":"ans711"} 
+    ,{"no":"712","qus":"Tavant :1) Tell me about ur current project and ur role it?","ans":"ans712"} 
+    ,{"no":"713","qus":"Tavant :2) Java Oops Concepts?","ans":"ans713"} 
+    ,{"no":"714","qus":"Tavant :3) We have two dropdown boxes if we select 1st same will be displaed in 2nd how u test it?","ans":"ans714"} 
+    ,{"no":"715","qus":"Tavant :4) We have a table with different colomns if u click on title it will be sorted how u test it is sorted or not?","ans":"ans715"} 
+    ,{"no":"716","qus":"Tavant :5) u don't have d.b access if u give data then it will take how u test that data is stored in d.b or not?(Regestration page)","ans":"ans716"} 
+    ,{"no":"717","qus":"Tavant :6) i have 8 marbles of same size and color and same weight excepet one..how u find the odd one.?","ans":"ans717"} 
+    ,{"no":"718","qus":"Tavant :7) how do u find a perticular word in a statement 'Hi how 'are' you'?","ans":"ans718"} 
+    ,{"no":"719","qus":"Tavant :8) Testng","ans":"ans719"} 
+    ,{"no":"720","qus":"Tavant :9) Jenkins","ans":"ans720"} 
+    ,{"no":"721","qus":"Tavant :10)Grid","ans":"ans721"} 
+    ,{"no":"722","qus":"Tavant :11)parallel execution in diff browers ?","ans":"ans722"} 
+    ,{"no":"723","qus":"Tavant :12) write complete program for..while login it shows 'sucess' is displayed or not?","ans":"ans723"} 
+    ,{"no":"724","qus":"Tavant :13)frame work?","ans":"ans724"} 
+    ,{"no":"725","qus":"Tavant :14)defect life cycle.","ans":"ans725"} 
+    ,{"no":"726","qus":"Tavant :1..write a code for pagination testing.(need to identify one records in a table)","ans":"ans726"} 
+    ,{"no":"727","qus":"Tavant : 2.how will u handle frames?","ans":"ans727"} 
+    ,{"no":"728","qus":"Tavant : 3.how will u handle calendar popup scenario?","ans":"ans728"} 
+    ,{"no":"729","qus":"Tavant : 4.Explain about TestNG.","ans":"ans729"} 
+    ,{"no":"730","qus":"Tavant : 5.Explain about POM.","ans":"ans730"} 
+    ,{"no":"731","qus":"Tavant :6.what are the factors should consider before doing automation?","ans":"ans731"} 
+    ,{"no":"732","qus":"TestNG1. Annotations in testng","ans":"ans732"} 
+    ,{"no":"733","qus":"TestNG2. Difference between @BeforeTest and @BeforeMethod","ans":"ans733"} 
+    ,{"no":"734","qus":"TestNG3. Soft assert vs Hard Assert","ans":"ans734"} 
+    ,{"no":"735","qus":"TestNG4. How to pass parameters to test methods","ans":"ans735"} 
+    ,{"no":"736","qus":"TestNG5. Use of data provider","ans":"ans736"} 
+    ,{"no":"737","qus":"TestNG6. Use of invocationCount, enabled, priority, dependsOnMethod, dependsOnGroups, alwaysRun, dataProvider, groups, timeout, expectedExceptions, singleThreaded, etc","ans":"ans737"} 
+    ,{"no":"738","qus":"TestNG7. testNg xml structure","ans":"ans738"} 
+    ,{"no":"739","qus":"TestNG8. How to group testcases","ans":"ans739"} 
+    ,{"no":"740","qus":"TestNG9. Use of IRetryAnalyzer class","ans":"ans740"} 
+    ,{"no":"741","qus":"TestNG10. How to run failed testcases","ans":"ans741"} 
+    ,{"no":"742","qus":"TestNG11. How to perform parallel testing.","ans":"ans742"} 
+    ,{"no":"743","qus":"TestNG12. What level user can perform parallel testing","ans":"ans743"} 
+    ,{"no":"744","qus":"TestNG13. Use of ISuiteListener Methods","ans":"ans744"} 
+    ,{"no":"745","qus":"TestNG14. Use of TestListenerAdaptor methods","ans":"ans745"} 
+    ,{"no":"746","qus":"TestNG15. How to ignore packages and classes.","ans":"ans746"} 
+    ,{"no":"747","qus":"TestNG16. Can user provide negative value for setting priority.","ans":"ans747"} 
+    ,{"no":"748","qus":"TestNG1. If there is a priority bug from production how do you address when the Sprint is in progress?","ans":"ans748"} 
+    
+]

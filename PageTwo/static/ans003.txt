@@ -1,0 +1,1 @@
+ Getting two integer as value<br> Added using the '+' operator<br> 
