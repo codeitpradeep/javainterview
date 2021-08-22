@@ -9,6 +9,8 @@
     text-rendering: optimizeLegibility;
 }
 
+@media screen and (max-width: 600px){
+
 body{
     font-size: 20px;
     line-height: 1.5;  
@@ -193,6 +195,8 @@ body{
 }
 .active{
     display: block;
+}
+
 }
 @media screen and (max-width: 600px){
     .nav__pythno{
