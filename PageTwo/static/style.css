@@ -9,7 +9,7 @@
     text-rendering: optimizeLegibility;
 }
 
-@media screen and (min-width: 600px){
+
 
 body{
     font-size: 20px;
@@ -197,7 +197,7 @@ body{
     display: block;
 }
 
-}
+
 @media screen and (max-width: 600px){
     .nav__pythno{
         flex-direction: column;
