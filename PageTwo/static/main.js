@@ -1,6 +1,19 @@
 
 
-gettextherejson()
+for(let i=0;i<3;i++){
+    switch(i){
+            case 0:gettextherejson()
+            break;
+            case 1:gettextherejson2()
+            break;
+            case 2:gettextherejson3()
+            break;
+            case 3:
+            break;
+    }
+}
+
+
 function gettextherejson(){
     fetch('./PageTwo/static/users.json')
     .then((res) => res.json())
@@ -103,7 +116,7 @@ for(var tk of keytoken){
 */
 
 
-gettextherejson2()
+
 function gettextherejson2(){
     fetch('./PageTwo/static/users.json')
     .then((res) => res.json())
@@ -118,7 +131,7 @@ function gettextherejson2(){
         
     } )
 }
-gettextherejson3()
+
 function gettextherejson3(){
     fetch('./PageTwo/static/users.json')
     .then((res) => res.json())
@@ -133,10 +146,26 @@ function gettextherejson3(){
         
     } )
 }
+async function checkFileExist(urlToFile) {
+    try{
+    var xhr = new XMLHttpRequest();
+    xhr.open('HEAD', urlToFile, false);
+    xhr.send();
+    } catch (err) {
+        return false;
+    }
+     
+    if (xhr.status == "404") {
+        return false;
+    } else {
+        return true;
+    }
+}
 
     async function loadFileAndPrintToConsole(url) {
         let path = "./PageTwo/static/"+url+".txt";
         let dataret ;
+        
         try {
           const response = await fetch(path);
           const data = await response.text();
@@ -162,6 +191,9 @@ function gettextherejson3(){
       }
 
 function gettexthere(filename){
+    //let newpath = "./PageTwo/static/"+filename+".txt";
+    //let result = checkFileExist(newpath);
+        //console.log(result)
       loadFileAndPrintToConsole(filename).then((data) =>{ 
           //console.log(data)
           if(data.includes('Cannot GET')){
@@ -174,6 +206,9 @@ function gettexthere(filename){
       
 }  
 function getpgmhere(filename){
+    //let newpath = "./PageTwo/static/pgm"+filename+".java";
+    //let result = checkFileExist(newpath);
+    //    console.log("dfsdfdsfs"+result)
     loadFileAndPrintToConsole2("pgm"+filename).then((data2) =>{ 
         console.log(filename)
         //pgmaddanswerans001
