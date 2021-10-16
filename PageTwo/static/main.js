@@ -51,9 +51,9 @@ function gettextherejson(){
                             </div -->
                         </div>
                        
-                        <div class="img__codehint">
-
-                        </div>
+                        <div class="sam_img">
+                        <img class="img__codehint" src="./img/${user.img}.PNG" alt="">
+                    </div>
                     </div>
                     </div>
                 </div>   

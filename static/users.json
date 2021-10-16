@@ -3,55 +3,120 @@
     {
         "no":"001",
         "qus": "What is public static void main(String[] args)?",
-        "ans": "ans001"
+        "ans": "ans001",
+        "img": "n"
         
     },
         {"no":"002",
         "qus":"Get input from user -  .util.Scanner",
-        "ans":"ans002"} 
+        "ans":"ans002",
+        "img": "n"
+        } 
         ,{"no":"003",
         "qus":"Adding two number as integer '+ operator'",
-        "ans":"ans003"} 
+        "ans":"ans003",
+        "img": "n"} 
         ,{"no":"004",
         "qus":"Multiply Float DATATYPE using ( * operator )",
-        "ans":"ans004"} 
+        "ans":"ans004",
+        "img": "n"} 
         ,{"no":"005",
         "qus":"Swap interger using - temp value / add,sub operator.",
-        "ans":"ans005"} 
+        "ans":"ans005",
+        "img": "n"} 
         ,{"no":"006",
         "qus":"Find ASCII of char",
-        "ans":"ans006"} 
+        "ans":"ans006",
+        "img": "n"} 
         ,{"no":"007",
         "qus":"Finding divide of integer , quotient  and remainder",
-        "ans":"ans007"} 
+        "ans":"ans007",
+        "img": "n"} 
         ,{"no":"008",
         "qus":"Find ODD / EVEN integer",
-        "ans":"ans008"} 
+        "ans":"ans008",
+        "img": "n"} 
         ,{"no":"009",
         "qus":"Find single char Alphabet is Vowel or Consonant",
-        "ans":"ans009"} 
+        "ans":"ans009",
+        "img": "n"} 
         ,{"no":"010",
         "qus":"Find Larger number between 3 numbers if-else , Ternary opr",
-        "ans":"ans010"} 
+        "ans":"ans010",
+        "img": "n"} 
         ,{"no":"011",
         "qus":"Find Prime number , m to nth all prime numbers",
-        "ans":"ans011"} 
+        "ans":"ans011",
+        "img": "n"} 
         ,{"no":"012",
         "qus":"Find factorial of number",
-        "ans":"ans012"} 
+        "ans":"ans012",
+        "img": "n"} 
         ,{"no":"013",
         "qus":"Display a-Z A-Z",
-        "ans":"ans013"} 
+        "ans":"ans013",
+        "img": "n"} 
         ,{"no":"014",
         "qus":"Check Palindrome String , reverse items",
-        "ans":"ans014"} 
+        "ans":"ans014",
+        "img": "n"} 
         ,{"no":"015",
         "qus":"Array - copy to another char",
-        "ans":"ans015"} 
+        "ans":"ans015",
+        "img": "n"} 
         ,{"no":"016",
         "qus":"Array -remove duplicate element",
-        "ans":"ans016"} 
+        "ans":"ans016",
+        "img": "n"} 
         ,{"no":"017",
         "qus":"Array - find duplicate of same number",
-        "ans":"ans017"} 
+        "ans":"ans017",
+        "img": "n"} 
+        ,{"no":"018",
+            "qus":"Array - Print items by position ODD , EVEN ",
+            "ans":"ans018",
+            "img":"img018"}
+            ,{"no":"019",
+            "qus":"Array Print Largest number in int array",
+            "ans":"ans019",
+            "img":"img019"}
+            ,{"no":"020",
+            "qus":"Array Print Smallest number in array int",
+            "ans":"ans020",
+            "img":"img020"}
+            ,{"no":"021",
+            "qus":"Array Print ascending order in array int ",
+            "ans":"ans021",
+            "img":"img021"}
+            ,{"no":"022",
+            "qus":"Array Print descending order in array int , First 3 smaller number",
+            "ans":"ans022",
+            "img":"img022"}
+            ,{"no":"023",
+            "qus":"Array Finding dulipcated count  ",
+            "ans":"ans023",
+            "img":"img023"}
+            ,{"no":"024",
+            "qus":"Array , Remove Elements and its occurrences",
+            "ans":"ans024",
+            "img":"img024"}
+            ,{"no":"025",
+            "qus":" Integer Pattern ",
+            "ans":"ans025",
+            "img":"img025"}
+            ,{"no":"026",
+            "qus":"String - Find total number of Character",
+            "ans":"ans026",
+            "img":"img026"}
+            ,{"no":"027",
+            "qus":"String - to find AEIOU  total number of vowels and consonants in a string",
+            "ans":"ans027",
+            "img":"img027"}
+            ,{"no":"028",
+            "qus":"String - two strings are the anagram (Eg - Barg Grab)",
+            "ans":"ans028",
+            "img":"img028"}
+            
+            
+        
 ]
