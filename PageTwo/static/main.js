@@ -52,7 +52,7 @@ function gettextherejson(){
                         </div>
                        
                         <div class="sam_img">
-                        <img class="img__codehint" src="./img/${user.img}.PNG" alt="">
+                        <img class="img__codehint" src="./PageTwo/img/${user.img}.PNG" alt="">
                     </div>
                     </div>
                     </div>

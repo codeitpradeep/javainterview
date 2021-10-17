@@ -1,1 +1,0 @@
-char 'a'<br> diff btw,<br> ++1 = 2<br> 1++ = 1<br> <br> so ++a is b<br> 
